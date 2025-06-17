@@ -2,7 +2,7 @@
 title: Start
 description: 
 published: true
-date: 2025-06-17T10:48:25.287Z
+date: 2025-06-17T10:50:04.591Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T12:49:40.857Z
@@ -59,49 +59,8 @@ Thank you for choosing the Linux Lite Operating System.
 *   Left Alt+Mouse wheel scroll - magnify your screen.
 *   Insert+S - toggles screen reader On and Off.
 *   Ctrl + Alt + O - opens the onscreen keyboard.
+ 
 
-  
-
-[Accessibility - Assistive Technologies](#accesstech)  
- [- Screen Reader - Orca](#screenreader)  
- [- Screen Magnifier](#magnifier)  
- [- Onscreen Keyboard](#onkey)  
-[Accessories Menu](#accessoriesmenu)  
-[Application Finder](#appfinder)  
-[Forums](#forums)  
-[General Software Support](#gensoftsup)  
-[Graphics Menu](#graphicsmenu)  
-[Help Manual](#helpmanual)  
-[Included Software](#inclsoftware)  
-[Install Updates](#instupdates)  
-[Internet Menu](#internetmenu)  
-[Keyboard Function](#kbfunction)  
-[Lite Info](#liteinfo)  
-[Lite System Report](#createsysreport)  
-[Menus](#menus)  
-[Multimedia Menu](#multimediamenu)  
-[My Computer Menu](#mycomputermenu)  
-[Office Menu](#officemenu)  
-[Post Installation](#postinst)  
-[Secure Boot](#secboot)  
-[Social Networks](#socnetworks)  
-[Support](#support)  
-[System Menu](#systemmenu)  
-[Tour](#tour)  
-[UEFI](#uefi)  
-
-   
-  
-Results per page: 7 20 50 100  
-  
-
-Match:  
- any search terms    all search terms  
-  
-
-TIP: For optimal results, only search for one or two words eg. _printer_ instead of _how do I install a printer_
-
-  
 
 ## Included Software
 

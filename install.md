@@ -2,7 +2,7 @@
 title: Install
 description: 
 published: true
-date: 2025-06-17T11:14:03.674Z
+date: 2025-06-17T11:16:21.298Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T11:14:03.674Z
@@ -138,7 +138,7 @@ If you have **more than one physical hard drive** and want to dual-boot Windows 
 
   
 
-[Top of page](#top)
+
 
 ## Installing Linux Lite to your computer - UEFI Mode
 
@@ -570,7 +570,7 @@ You can now log into your computer and start using it.
 
 ![](images/install/logindesktop.png)
 
-[Top of page](#top)
+
 
 ## Securely Erasing files Permanently
 
@@ -604,7 +604,7 @@ Now when you want to permanently and securely erase a file from your computer wi
 
 ![](images/install/secureerase/secureerase4.png)
 
-[Top of page](#top)
+
 
 ## Setting your Language
 
@@ -648,7 +648,7 @@ After you've entered your password, your computer will begin to download all the
 
 Please note that not all programs may not have your language applied. If this is the case, search for that program in **Package Manager** and see if there is a language pack available for it. Also note that after you have changed your language, some of the **Menu** items may not be translated properly. There is little we can do about this, an easy way to rename **Menu** entries is by going to **Menu, Settings, Menu Editor** and editing the entries there.
 
-[Top of page](#top)
+
 
 ## Enabling TRIM on your SSD
 
@@ -672,7 +672,7 @@ Terminal Command:
 
   
 
-[Top of page](#top)
+
 
 ## Drives & Partitions
 
@@ -686,7 +686,7 @@ A physical storage device (drive) can be divided into multiple logical storage u
 
 The term volume in Linux is related to the Logical Volume Manager (LVM), which can be used to manage mass storage devices. A physical volume is a storage device or partition. A logical volume created by the LVM is a logical storage device which can span multiple physical volumes.
 
-[Top of page](#top)
+
 
 ## Mounting Drives & Partitions
 
@@ -704,7 +704,7 @@ Once mounted, the drive icon reflects just that (not longer grayed-out)... you a
 
 ![](images/install/mount/mounted-drive-create-new-folder.jpg)
 
-[Top of page](#top)
+
 
 ## Automount Drives & Partitions for all users
 
@@ -755,7 +755,7 @@ The selected drive will then be mounted.
 
 Repeat these steps to automount other drives (or additional partitions within a drive) as needed.
 
-[Top of page](#top)
+
 
 ## Automount Windows Partitions for all users
 
@@ -798,7 +798,7 @@ The selected drive will then be mounted.
 
 Repeat these steps to automount other drives (or additional partitions within a drive) as needed.
 
-[Top of page](#top)
+
 
 ## Controlling Access to Mounted Drives
 
@@ -844,7 +844,6 @@ With the above mount options, this is what **liteuser** and **user1** accounts g
 
 Feel free to experiment with umask options, different groups and users. For additional references, see **man mount** and **man umask**.
 
-[Top of page](#top)
 
 ## Adding another User
 
@@ -896,7 +895,6 @@ This is as easy as selecting the user that you want to remove from the **Select 
 
 ![](images/install/user/liteuser4.png)
 
-[Top of page](#top)
 
 ## Resetting your Password
 
@@ -938,7 +936,6 @@ Now login with your password.
 
 ![](images/install/login.png)
 
-[Top of page](#top)
 
 ## Terminal Basics
 
@@ -988,7 +985,3 @@ You can also use it to move a file from one location to another eg. **mv /home/j
 CopyLeft Linux Command Reference:
 
 ![](images/install/termbasics/cheatsheet.png)
-
-[Top of page](#top)
-
-.ll\_responsive\_1 { width: 320px; height: 100px; } @media(min-width: 500px) { .ll\_responsive\_1 { width: 468px; height: 60px; } } @media(min-width: 800px) { .ll\_responsive\_1 { width: 728px; height: 90px; } } (adsbygoogle = window.adsbygoogle || \[\]).push({});****************

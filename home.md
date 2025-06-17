@@ -2,7 +2,7 @@
 title: Start
 description: 
 published: true
-date: 2025-06-17T10:50:04.591Z
+date: 2025-06-17T10:52:14.097Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T12:49:40.857Z
@@ -210,8 +210,6 @@ In Linux Lite, the **Settings Manager** is like the Control Panel in Windows. Th
 
 ![](images/start/tour/tour7.png)  
 
-[Top of page](#top)
-
 ## Menus
 
 The menu system on Linux Lite has been greatly simplified to make navigation intuitive.
@@ -306,8 +304,6 @@ Checks for updates for Linux Lite. Click [here](software.html#updates) to learn 
 
 A link to this Help manual.
 
-[Top of page](#top)
-
 ## Accessibility - Assistive Technologies
 
 Assistive technology (AT) is any item, piece of equipment, software program, or product system that is used to increase, maintain, or improve the functional capabilities of persons with disabilities.
@@ -377,6 +373,4 @@ The onscreen keyboard is highly configurable. Click on **Menu, Accessories, Onbo
 To start the onscreen keyboard when you Login to your Desktop, click on **Menu, Settings, Session and Startup**. Then click on the **Application Autostart** tab, locate **Onboard** and put a tick in the box. Logout, then Login again.
 
 ![](images/start/as/as7.png)
-
-[Top of page](#top)
 

@@ -1,0 +1,2 @@
+# wiki
+Linux Lite Documentation

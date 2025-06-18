@@ -1,4 +1,4 @@
-Lite Wiki
+Linux Lite Wiki
 ================
 The Linux Lite Wiki. Available offline on Linux Lite, or viewable
 online [here](https://wiki.linuxliteos.com/).

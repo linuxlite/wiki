@@ -2,25 +2,13 @@
 title: Network
 description: 
 published: true
-date: 2025-06-18T01:36:30.167Z
+date: 2025-06-18T01:37:01.915Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:36:30.167Z
 ---
 
 # Network
-
-[Accessing a NAS device](#nas)  
-[Connecting to the Internet - Wired](#wired)  
-[Connecting to the Internet - Wireless](#wireless)  
-[Network Shares](#shares)  
- [- Create Linux Lite Shares](#lite-shares)  
- [- Access Linux Lite shares from Windows](#wintolin)  
- [- Access Windows shares from Linux Lite](#lintowin)  
-[NitroShare - Share files with Linux, Mac & Windows](#nitroshare)  
-[Remote Access with VNC](#vnc)  
-[Setting the Time & Date](#date)  
-[USB Broadband Modem](#usbmodem)  
 
 
 ## Connecting to the Internet - Wired

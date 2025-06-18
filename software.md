@@ -2,13 +2,13 @@
 title: Software
 description: 
 published: true
-date: 2025-06-18T01:02:20.632Z
+date: 2025-06-18T01:03:45.125Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:00:38.020Z
 ---
 
-## Install
+## Software
 
 [Changing Desktop Environments](#deskenv)  
 [Change Repository Location](#literepos)  

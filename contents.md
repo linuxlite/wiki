@@ -2,43 +2,11 @@
 title: Contents
 description: 
 published: true
-date: 2025-06-18T06:42:44.490Z
+date: 2025-06-18T06:44:05.641Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T12:57:05.760Z
 ---
-
-## Start
-
-
-|     |     |
-| --- | --- |
-| [![](images/sort.png)](#) | [![](images/sort.png)](#) |
-| Accessibility - Assistive Technologies | [Assistive Technologies](start.html#accesstech) |
-| Accessories Menu | [Menus](start.html#accessoriesmenu) |
-| Application Finder | [Software](start.html#appfinder) |
-| Forums | [Support](start.html#forums) |
-| General Software Support | [Support](start.html#gensoftsup) |
-| Graphics Menu | [Menus](start.html#graphicsmenu) |
-| Help Manual | [Support](start.html#helpmanual) |
-| Included Software | [Software](start.html#inclsoftware) |
-| Install Updates | [Menus](start.html#instupdates) |
-| Internet Menu | [Menus](start.html#internetmenu) |
-| Keyboard Function | [Keyboard](start.html#kbfunction) |
-| Lite Info | [Lite Info](start.html#liteinfo) |
-| Lite System Report | [Reports](start.html#createsysreport) |
-| Menus | [Menus](start.html#menus) |
-| Multimedia Menu | [Menus](start.html#multimediamenu) |
-| My Computer Menu | [My Computer Menu](start.html#mycomputermenu) |
-| Office Menu | [Menus](start.html#officemenu) |
-| Post Installation | [Post Installation](start.html#postinst) |
-| Secure Boot | [Secure Boot](start.html#secboot) |
-| Social Networks | [Social Networks](start.html#socnetworks) |
-| Support | [Support](start.html#support) |
-| System Menu | [Menus](start.html#systemmenu) |
-| Tour | [Tour](start.html#tour) |
-| UEFI | [UEFI](start.html#uefi) |
-
 
 ## Install
 

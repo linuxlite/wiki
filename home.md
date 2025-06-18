@@ -2,18 +2,11 @@
 title: Start
 description: 
 published: true
-date: 2025-06-18T06:26:29.372Z
+date: 2025-06-18T07:16:30.102Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T12:49:40.857Z
 ---
-
-
-*   https://www.facebook.com/linuxliteos
-*   https://twitter.com/linuxlite
-*   https://www.reddit.com/r/LinuxLite/
-
-
 
 ## Welcome to Linux Lite - simple, fast, free.
 
@@ -44,7 +37,11 @@ Thank you for choosing the Linux Lite Operating System.
 *   VGA, DVI or HDMI screen capable of 1366x768 resolution+
 *   DVD drive or USB port for the ISO image
 
-  
+## Social Media:
+
+*   https://www.facebook.com/linuxliteos
+*   https://twitter.com/linuxlite
+*   https://www.reddit.com/r/LinuxLite/
 
 ## Keyboard Shortcuts
 

@@ -10,6 +10,6 @@ This project is under the GPLv2 license. Unless otherwise stated in individual f
 
 ## Contributors
 - [Jerry Bezencon](https://github.com/linuxlite/)
-- [Waytonn](https://github.com/Waytonn)
+- [Jethro Shearer](https://github.com/Waytonn)
 - [Avijit1-Avi15](https://github.com/Avijit1-Avi15)
 

@@ -2,7 +2,7 @@
 title: Install
 description: 
 published: true
-date: 2025-06-17T11:16:21.298Z
+date: 2025-06-18T05:00:03.980Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T11:14:03.674Z
@@ -92,7 +92,7 @@ Open a folder and make sure you are in the directory that the iso file is in. Op
 
 Terminal Command:
 
-						`sudo dd if=linux-lite-7.4-64bit.iso of=/dev/sdx bs=4M`
+						sudo dd if=linux-lite-7.4-64bit.iso of=/dev/sdx bs=4M
 
   
 
@@ -102,7 +102,7 @@ Change the **x** in **sdx** to match the letter of your USB device. In the above
 
 Terminal Command:
 
-						`sudo dd if=linux-lite-7.4-64bit.iso of=/dev/sda bs=4M`
+						sudo dd if=linux-lite-7.4-64bit.iso of=/dev/sda bs=4M
 
   
 
@@ -660,7 +660,7 @@ Open a terminal and do:
 
 Terminal Command:
 
-						`systemctl list-timers -a`
+						systemctl list-timers -a
 
   
 
@@ -668,7 +668,7 @@ and:
 
 Terminal Command:
 
-						`sudo journalctl -u fstrim.timer`
+						sudo journalctl -u fstrim.timer
 
   
 
@@ -716,7 +716,7 @@ Start by creating a folder to assign a mount point path to the drive. Open Termi
 
 Terminal Command:
 
-						`sudo mkdir /media/disk1`
+						sudo mkdir /media/disk1
 
   
 
@@ -763,7 +763,7 @@ Linux Lite can read and write NTFS file systems on external drives by default. T
 
 Terminal Command:
 
-					`sudo mkdir /media/disk1`
+					sudo mkdir /media/disk1
 
   
 
@@ -814,7 +814,7 @@ First, we need to know the uid/gid of the administrative account we are using to
 
 Terminal Command:
 
-  					`id -u username   id -g username`
+  					id -u username   id -g username
 
   
 
@@ -853,13 +853,13 @@ Please note, there is a character limit for both your user and the user you are 
 
 To change **your own** password via the command line, do:.
 
-						`passwd`
+						passwd
 
   
 
 To change **someone else's** password via the command line (you must have sudo rights to do this), do:.
 
-						`sudo passwd otherusersnamehere`
+						sudo passwd otherusersnamehere
 
   
 
@@ -867,7 +867,7 @@ And follow the onscreen instructions.
 
 **NOTE: Choose a strong password, a mix of upper and lower case as well as a mix of numbers and characters. An example of this would be:**
 
-						**`y%9L2x#o`
+						**y%9L2x#o
 
   
 

@@ -2,13 +2,11 @@
 title: Software
 description: 
 published: true
-date: 2025-06-18T01:43:55.752Z
+date: 2025-06-18T01:44:44.858Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:00:38.020Z
 ---
-
-## Software
 
 ## Getting Software
 

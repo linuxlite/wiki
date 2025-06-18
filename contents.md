@@ -2,7 +2,7 @@
 title: Contents
 description: 
 published: true
-date: 2025-06-18T06:41:49.685Z
+date: 2025-06-18T06:42:44.490Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T12:57:05.760Z
@@ -14,7 +14,7 @@ dateCreated: 2025-06-13T12:57:05.760Z
 |     |     |
 | --- | --- |
 | [![](images/sort.png)](#) | [![](images/sort.png)](#) |
-| Accessibility - Assistive Technologies | [Assistive Technologies](start#accesstech) |
+| Accessibility - Assistive Technologies | [Assistive Technologies](start.html#accesstech) |
 | Accessories Menu | [Menus](start.html#accessoriesmenu) |
 | Application Finder | [Software](start.html#appfinder) |
 | Forums | [Support](start.html#forums) |

@@ -2,7 +2,7 @@
 title: Network
 description: 
 published: true
-date: 2025-06-18T05:07:59.231Z
+date: 2025-06-18T05:10:53.215Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:36:30.167Z
@@ -202,10 +202,10 @@ The configuration file will then open in leafpad text editor. Default settings a
  
 ```
 #======================= Global Settings ====================================  
-\[global\]  
-workgroup = **WORKGROUP**  
+[global]  
+workgroup = WORKGROUP 
 server string = Linux Lite Shares  
-netbios name = **linux**  
+netbios name = linux 
 security = user  
 encrypt passwords = true  
 username map = /etc/samba/smbusers  
@@ -213,8 +213,8 @@ map to guest = bad user
 guest account = nobody  
 dns proxy = no  
 #======================= Share Definitions ===================================  
-\[liteshare\]  
-path = /home/%U/**linux\_share**  
+[liteshare]  
+path = /home/%U/linux_share 
 available = yes  
 valid users = %U %G  
 write list = %U  
@@ -254,7 +254,7 @@ If at any stage you want to add more share folders, you can simply add more bloc
 
 ```
 #======================= Global Settings ====================================  
-\[global\]  
+[global]  
 workgroup = WORKGROUP  
 server string = Linux Lite Shares  
 netbios name = jerryvb  
@@ -265,8 +265,8 @@ map to guest = bad user
 guest account = nobody  
 dns proxy = no  
 #======================= Share Definitions ===================================  
-\[liteshare\]  
-path = /home/jerry/linux\_share  
+[liteshare]  
+path = /home/jerry/linux_share  
 available = yes  
 valid users = %U %G  
 write list = %U  
@@ -279,7 +279,7 @@ printable = no
 locking = no  
 strict locking = no  
   
-\[videoshare\]  
+[videoshare]  
 path = /home/jerry/Videos  
 available = yes  
 valid users = %U %G  
@@ -293,7 +293,7 @@ printable = no
 locking = no  
 strict locking = no  
   
-\[dloadshare\]  
+[dloadshare]  
 path = /home/jerry/Downloads  
 available = yes  
 valid users = %U %G  
@@ -411,18 +411,18 @@ Terminal Command:
 Copy & paste the code below into the Text Editor:
 
 ```
-\[Unit\]  
+[Unit]  
 Description=VNC Server for X11  
 Requires=display-manager.service  
 After=display-manager.service  
-\[Service\]  
+[Service]  
 Type=forking  
 ExecStart=/usr/bin/x11vnc -dontdisconnect -auth guess -forever -shared -noxdamage -repeat -rfbauth /etc/x11vnc/vncpwd -rfbport 5900 -bg -o /var/log/x11vnc.log  
 ExecStop=/usr/bin/killall x11vnc  
 Restart=on-failure  
 Restart-sec=5  
   
-\[Install\]  
+[Install]  
 WantedBy=multi-user.target  
 ```
   

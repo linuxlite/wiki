@@ -2,35 +2,13 @@
 title: Hardware
 description: 
 published: true
-date: 2025-06-18T03:57:32.801Z
+date: 2025-06-18T03:57:51.545Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T03:57:18.277Z
 ---
 
 # Hardware
-
-[Bluetooth - Enabling full support](#bluetooth)  
-[Booting Issues](#booting)  
-[Dual Boot - Multiple Drives](#install-multi-drive)  
-[Dual Boot - Modification/Repair](#dualboot)  
-[Dual Monitor Setup Instructions](#dualmonitors)  
-[Finding help online](#findhelpon)  
-[Graphics Drivers and Setup](#graphics)  
-[Graphics - AMD Radeon](#radeon)  
-[Graphics - NVIDIA](#nvidia)  
-[Graphics - NVIDIA Prime](#optimus)  
-[Hardware Database](#hwdb)  
-[HP Printers on Linux Lite](#hpprinters)  
-[Installation Issues](#installissues)  
-[Keyboard Related](#keyboard)  
-[Lite System Report tool](#sysreport)  
-[Printer Setup](#printer)  
-[Resources for Audio Drivers](#ressound)  
-[Resources for compatible Printers](#rescomprint)  
-[Sound Configuration](#sound)  
-[Share your Printer from Linux Lite](#shareprinter)  
-[Volume Toggles](#volumetog)
 
 
 ## Hardware Database

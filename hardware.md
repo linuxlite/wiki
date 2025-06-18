@@ -2,14 +2,11 @@
 title: Hardware
 description: 
 published: true
-date: 2025-06-18T03:57:51.545Z
+date: 2025-06-18T03:58:23.424Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T03:57:18.277Z
 ---
-
-# Hardware
-
 
 ## Hardware Database
 

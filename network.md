@@ -2,13 +2,25 @@
 title: Network
 description: 
 published: true
-date: 2025-06-18T01:45:00.521Z
+date: 2025-06-18T01:48:17.621Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:36:30.167Z
 ---
 
 ## Connecting to the Internet - Wired
+
+[Accessing a NAS device](#nas)  
+[Connecting to the Internet - Wired](#wired)  
+[Connecting to the Internet - Wireless](#wireless)  
+[Network Shares](#shares)  
+ [- Create Linux Lite Shares](#lite-shares)  
+ [- Access Linux Lite shares from Windows](#wintolin)  
+ [- Access Windows shares from Linux Lite](#lintowin)  
+[NitroShare - Share files with Linux, Mac & Windows](#nitroshare)  
+[Remote Access with VNC](#vnc)  
+[Setting the Time & Date](#date)  
+[USB Broadband Modem](#usbmodem)  
 
 For the most part, you shouldn't have to configure anything in Network Connections if you are connected to your router with an ethernet cable. Your router is most likely already set up to give you an IP address automatically. So in this tutorial we will instead focus on connecting to your router with a static IP address.
 

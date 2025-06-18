@@ -2,12 +2,13 @@
 title: Software
 description: 
 published: true
-date: 2025-06-18T01:00:38.020Z
+date: 2025-06-18T01:01:40.520Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:00:38.020Z
 ---
 
+## Install
 
 *   [HOME](index.html)
 *   [CONTENTS](contents.html)

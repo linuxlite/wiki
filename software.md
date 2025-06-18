@@ -2,25 +2,13 @@
 title: Software
 description: 
 published: true
-date: 2025-06-18T01:01:40.520Z
+date: 2025-06-18T01:02:10.219Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:00:38.020Z
 ---
 
 ## Install
-
-*   [HOME](index.html)
-*   [CONTENTS](contents.html)
-*   [START](start.html)
-*   [INSTALL](install.html)
-*   [NETWORK](network.html)
-*   [SOFTWARE](software.html)
-*   [HARDWARE](hardware.html)
-*   [TUTORIALS](tutorials.html)
-*   [CUSTOMIZE](customize.html)
-*   [GLOSSARY](glossary.html)
-
 
 [Changing Desktop Environments](#deskenv)  
 [Change Repository Location](#literepos)  

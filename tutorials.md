@@ -2,7 +2,7 @@
 title: Tutorials
 description: 
 published: true
-date: 2025-06-18T04:52:58.037Z
+date: 2025-06-18T05:17:59.267Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T04:14:30.030Z
@@ -29,7 +29,6 @@ The Synaptic Package Manager below. Learn how to use it [here](software.html#ins
 ![](images/software/insoft/synaptic_search.png)
 
 
-
 ## AntiVirus
 
 Viruses can occur on any computer system. The following tutorial is a collection of commands that allows you to scan your entire system for viruses.
@@ -38,49 +37,37 @@ Install the virus scanner:
 
 Terminal Command:
 
-						`sudo apt-get install clamav clamav-daemon`
-
-  
+						sudo apt-get install clamav clamav-daemon
 
 Download the latest virus definitions:
 
 Terminal Command:
 
-						`sudo freshclam`
-
-  
+						sudo freshclam
 
 If you get the following error in your terminal:
 
 Terminal:
 
-						`ERROR: /var/log/clamav/freshclam.log is locked by another process`
-
-  
+						ERROR: /var/log/clamav/freshclam.log is locked by another process
 
 Run the following command in your terminal:
 
 Terminal:
 
-						`sudo rm -rf /var/log/clamav/freshclam.log`
-
-  
+						sudo rm -rf /var/log/clamav/freshclam.log
 
 Then run the following command again in your terminal:
 
 Terminal Command:
 
-						`sudo freshclam`
-
-  
+						sudo freshclam
 
 Once your virus database is up to date, proceed to scan your system for viruses:
 
 Terminal Command:
 
-						`sudo clamscan -r -i / | grep FOUND >> /home/youruser/virus-scan-report.txt`
-
-  
+						sudo clamscan -r -i / | grep FOUND >> /home/youruser/virus-scan-report.txt
 
 Where **youruser** is your username.
 
@@ -90,9 +77,7 @@ To just scan your home folder, run the following:
 
 Terminal Command:
 
-						`clamscan -r -i /home/youruser/ | grep FOUND >> /home/youruser/virus-scan-report.txt`
-
-  
+						clamscan -r -i /home/youruser/ | grep FOUND >> /home/youruser/virus-scan-report.txt
 
 Where **youruser** is your username.
 
@@ -106,9 +91,7 @@ Be sure to run the following command in your terminal before running a new virus
 
 Terminal Command:
 
-						`sudo freshclam`
-
-  
+						sudo freshclam
 
 Then run your new virus scan.
 
@@ -164,29 +147,21 @@ To enable the firewall in the Terminal:
 
 Terminal Command:
 
-						`sudo systemctl unmask --now firewalld`
-
-  
+						sudo systemctl unmask --now firewalld
 
 Terminal Command:
 
-						`sudo systemctl enable firewalld`
-
-  
+						sudo systemctl enable firewalld
 
 Terminal Command:
 
-						`sudo systemctl start firewalld`
-
-  
+						sudo systemctl start firewalld
 
 The following command shows the status of your firewall:
 
 Terminal Command:
 
-						`sudo firewall-cmd --state`
-
-  
+						sudo firewall-cmd --state
 
 With the Firewall enabled, Linux Lite let's through the everyday traffic by default, for example, internet and mail. If you want for example to use DropBox, you will need to make sure it has been ticked in the Services tab, and the relevant ports have been added. Torrent applications and their accompanying ports will also need to be ticked and added to function properly.
 
@@ -194,21 +169,15 @@ If you have a firewall elsewhere on your network (like most routers do) then you
 
 Terminal Command:
 
-						`sudo systemctl stop firewalld`
-
-  
+						sudo systemctl stop firewalld
 
 Terminal Command:
 
-						`sudo systemctl disable firewalld`
-
-  
+						sudo systemctl disable firewalld
 
 Terminal Command:
 
-						`sudo systemctl mask --now firewalld`
-
-  
+						sudo systemctl mask --now firewalld
 
 **A list of common ports to work with an Enabled Firewall**:
 
@@ -420,9 +389,7 @@ First, we install the **mkusb** PPA. Complete one line at a time.
 
 Terminal Command:
 
-						`sudo add-apt-repository ppa:mkusb/ppa   sudo apt install --install-recommends mkusb mkusb-nox usb-pack-efi`
-
-  
+						sudo add-apt-repository ppa:mkusb/ppa   sudo apt install --install-recommends mkusb mkusb-nox usb-pack-efi
 
 Launch **mkusb, Menu, System, mkusb**.
 
@@ -477,8 +444,6 @@ The application will now go ahead and create the USB persistence for you. This m
 The process is now complete. Click on all the **Quit** options. You can now plug your USB device into a computer and boot from it.
 
 ![](images/tutorials/usbpers/usbpers-13.png)
-
-  
 
 ![](images/tutorials/usbpers/usbpers-14.png)
 

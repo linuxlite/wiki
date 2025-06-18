@@ -2,7 +2,7 @@
 title: Start
 description: 
 published: true
-date: 2025-06-17T10:52:14.097Z
+date: 2025-06-18T06:26:29.372Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T12:49:40.857Z
@@ -23,7 +23,7 @@ Thank you for choosing the Linux Lite Operating System.
 
 **What's New:** Updated information for 7.4 release.
 
-**Authors:** Jerry Bezencon, Ralphy, Bill Hahnen, Ralphy, Milos Pavlovic, Adam Grubbs, John Jenkins
+**Authors:** Jerry Bezencon, Jethro Shearer, Ralphy, Bill Hahnen, Ralphy, Milos Pavlovic, Adam Grubbs, John Jenkins
 
 ## Operating System
 

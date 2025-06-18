@@ -2,7 +2,7 @@
 title: Hardware
 description: 
 published: true
-date: 2025-06-18T04:05:15.866Z
+date: 2025-06-18T04:57:36.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T03:57:18.277Z
@@ -52,7 +52,7 @@ If you're not sure if your graphics card is nVidia or not, open up a terminal an
 
 Terminal Command:
 
-						`sudo lshw -C display`
+						sudo lshw -C display
 
   
 

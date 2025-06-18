@@ -2,7 +2,7 @@
 title: Network
 description: 
 published: true
-date: 2025-06-18T03:54:39.917Z
+date: 2025-06-18T05:07:59.231Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:36:30.167Z
@@ -31,12 +31,12 @@ Click on the **Add** button in **Addresses** an enter in the appropriate numbers
 
 Example:
 
-  
-
+```
 **Address:** 192.168.1.44  
 **Netmask:** 24  
 **Gateway:** 192.168.1.1 (this is your Router address)  
 **DNS Servers:** 192.168.1.1 (this is also your Router address)  
+```
 
 ![](images/network/wired/wired4.png)
 
@@ -61,7 +61,6 @@ After a successful connection, you should see a tray icon like the one shown bel
 ![](images/network/wireless/wireless-4.png)
 
 
-
 ## USB Broadband Modem
 
 If you have the **Huawei E220** then this should work out of the box. This is a very common modem and we encourage you to use this model if it is possible.
@@ -71,7 +70,6 @@ Right click on the Network Connections tray icon and select **New Mobile Broadba
 ![](images/network/usbmodem1.png)
 
 At this stage no other modems have been tested.
-
 
 
 ## NitroShare - Share files with Linux, Mac & Windows
@@ -123,7 +121,6 @@ Transfer successful.
 ![](images/network/nitroshare/nitroshare-11.png)
 
 
-
 ## Accessing a NAS device
 
 Many homes now use a NAS or Network Attached Storage device. In this tutorial we'll show you how to access all your media files, then show you how to play them across your network with VLC. When this set up is complete, you'll also be able to copy and paste files between your NAS and your pc just like you did in Windows or Mac.
@@ -159,7 +156,6 @@ Now that we've given VLC the network credentials it needs to access your NAS, we
 ![](images/network/nas/nas7.png)
 
 
-
 ## Network Shares
 
 A Network Share is a computer resource made available from one computer to others on a computer network such as files, folders and printers to mention the most common. These resources can be remotely accessed from another computer, typically via a local area network or intranet, transparently as if it were a resource in the local machine. Linux Lite includes the **Lite Network Shares** application to help in configuring your shares for access from other computers in your network; e.g.: a Windows machine. In Linux, the suite that provides seamless file and print services interoperability for Windows, Linux and Unix is known as **Samba**.
@@ -178,9 +174,7 @@ Next, we need to tell Samba (SMB) who we are going to login as to access our Lin
 
 Terminal Command:
 
-						`sudo smbpasswd -a name`
-
-  
+						sudo smbpasswd -a name
 
 ...where **name** is your Linux Lite username; in our case the username is **jerry**. For easily remembering the SMB password, you can use the same password for SMB as that in your Linux Lite user account if you wish.
 
@@ -205,8 +199,8 @@ Open **Menu**, **Settings**, **Lite Network Shares** and click on **Edit Share S
 ![](images/network/nss/nss-main-window.png)
 
 The configuration file will then open in leafpad text editor. Default settings are shown below:
-
-  
+ 
+```
 #======================= Global Settings ====================================  
 \[global\]  
 workgroup = **WORKGROUP**  
@@ -231,9 +225,8 @@ guest ok = no
 read only = no  
 printable = no  
 locking = no  
-strict locking = no  
-  
-  
+strict locking = no
+```
 
 **For a first time basic setup, there is no need to change the default settings.** You likely only need to verify the following:
 
@@ -248,8 +241,6 @@ strict locking = no
   
 **path =** the path to the folder in your home directory where shared files will be stored. **ONLY** change the folder name part; e.g.: /home/%U/linux\_share  
 " **linux\_share** " is the folder name in Linux Lite you are sharing from your home folder. " **%U** " is Samba's substitution for the username; meaning same as your username. Leave the %U as it is. Change **ONLY** the word " **linux\_share** " to the name of the folder you created in the first step of this tutorial if you used a different folder name.  
-  
-  
 
 **Save** and **Close** the file, then click on **Restart services**.
 
@@ -261,7 +252,7 @@ You can now access Linux Lite shares from another computer in your network.
 
 If at any stage you want to add more share folders, you can simply add more blocks like in the example below:
 
-  
+```
 #======================= Global Settings ====================================  
 \[global\]  
 workgroup = WORKGROUP  
@@ -315,10 +306,7 @@ read only = no
 printable = no  
 locking = no  
 strict locking = no  
-  
-  
-
-
+```
 
 ## Accessing Linux Lite shares from Windows
 
@@ -347,7 +335,6 @@ And here we see our Linux Lite computer share folder:
 All that's left to do is to double click on the Linux Lite share and we will be inside the share folder. Now you can copy and paste files to your Linux Lite computer.
 
 ![](images/network/smb/access_ll4.png)
-
 
 
 ## Accessing Windows shares from Linux Lite
@@ -381,7 +368,6 @@ Now you can copy and paste files to your Windows computer.
 **NOTE: If you are still not having any luck with either method, try [NitroShare](http://nitroshare.net/), a cross-platform network sharing application for Windows, Mac and Linux. You can view a video tutorial on it [here](http://www.youtube.com/watch?v=0QduAP4CxXI). Another method you could consider is setting up an FTP server on your Windows computer and connecting to it with Filezilla, available from Menu, Settings, Lite Software.**
 
 
-
 ## Remote Access with VNC
 
 Here is a quick tutorial on how to configure x11vnc (VNC Server) for remote access/control to your Linux Lite PC via VNC client.
@@ -390,7 +376,7 @@ Start by installing x11vnc from Terminal with:
 
 Terminal Command:
 
-						`sudo apt install -y x11vnc`
+						sudo apt install -y x11vnc
 
   
 
@@ -400,7 +386,7 @@ Next, let’s create a directory to store a file that will contain the password 
 
 Terminal Command:
 
-						`sudo mkdir /etc/x11vnc`
+						sudo mkdir /etc/x11vnc
 
   
 
@@ -408,7 +394,7 @@ Now we'll create an encrypted password file and save it in **/etc/x11vnc/**. You
 
 Terminal Command:
 
-						`sudo x11vnc --storepasswd /etc/x11vnc/vncpwd`
+						sudo x11vnc --storepasswd /etc/x11vnc/vncpwd
 
   
 
@@ -418,13 +404,13 @@ Now we will create the systemd service file for the x11vnc service:
 
 Terminal Command:
 
-						`pkexec mousepad /lib/systemd/system/x11vnc.service`
+						pkexec mousepad /lib/systemd/system/x11vnc.service
 
   
 
 Copy & paste the code below into the Text Editor:
 
-  
+```
 \[Unit\]  
 Description=VNC Server for X11  
 Requires=display-manager.service  
@@ -438,7 +424,7 @@ Restart-sec=5
   
 \[Install\]  
 WantedBy=multi-user.target  
-  
+```
   
 
 ![](images/network/vnc/vnc3.png)
@@ -447,28 +433,27 @@ Save changes and close leafpad. Then copy **/lib/systemd/system/x11vnc.service**
 
 Terminal Command:
 
-						`sudo cp /lib/systemd/system/x11vnc.service /etc/systemd/system/`
+						sudo cp /lib/systemd/system/x11vnc.service /etc/systemd/system/
 
   
-
 Next, let’s edit /lib/systemd/system/graphical.target
 
 Terminal Command:
 
-						`pkexec mousepad /lib/systemd/system/graphical.target`
+						pkexec mousepad /lib/systemd/system/graphical.target
 
   
 
 Update graphical.target file content as shown below:
 
-  
-\# This file is part of systemd.  
-#  
-\# systemd is free software; you can redistribute it and/or modify it  
-\# under the terms of the GNU Lesser General Public License as published by  
-\# the Free Software Foundation; either version 2.1 of the License, or  
-\# (at your option) any later version.  
-\[Unit\]  
+```
+# This file is part of systemd.   
+# systemd is free software; you can redistribute it and/or modify it  
+# under the terms of the GNU Lesser General Public License as published by  
+# the Free Software Foundation; either version 2.1 of the License, or  
+# (at your option) any later version.
+
+[Unit]  
 Description=Graphical Interface  
 Documentation=man:systemd.special(7)  
 Requires=multi-user.target  
@@ -476,8 +461,7 @@ Wants=display-manager.service x11vnc.service
 Conflicts=rescue.service rescue.target  
 After=multi-user.target rescue.service rescue.target display-manager.service  
 AllowIsolate=yes  
-  
-  
+```
 
 ![](images/network/vnc/vnc4.png)
 
@@ -485,23 +469,17 @@ Save changes and close the Text Editor. Then copy **/lib/systemd/system/graphica
 
 Terminal Command:
 
-						`sudo cp /lib/systemd/system/graphical.target /etc/systemd/system/`
-
-  
+						sudo cp /lib/systemd/system/graphical.target /etc/systemd/system/
 
 Reload services and enable the x11vnc service at boot time:
 
 Terminal Command:
 
-						`sudo systemctl daemon-reload`
-
-  
+						sudo systemctl daemon-reload
 
 Terminal Command:
 
-						`sudo systemctl enable graphical.target`
-
-  
+						sudo systemctl enable graphical.target
 
 Finally, either reboot Linux Lite or manually start x11vnc service:
 
@@ -509,18 +487,15 @@ Reboot:
 
 Terminal Command:
 
-						`sudo reboot now`
-
-  
+						sudo reboot now
 
 or start x11vnc without rebooting:
 
 Terminal Command:
 
-						`sudo systemctl start x11vnc.service`
+						sudo systemctl start x11vnc.service
 
   
-
 ## Remotely accessing/controlling Linux Lite
 
 From a client computer in your network, using a VNC client of your choice (Remmina, Ultra VNC, TightVNC, Chicken VNC, VNC Viewer, Screen Sharing, enter the IP address of your Linux Lite box or its hostname.

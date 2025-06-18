@@ -2,25 +2,38 @@
 title: Network
 description: 
 published: true
-date: 2025-06-18T01:48:17.621Z
+date: 2025-06-18T01:50:10.039Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:36:30.167Z
 ---
 
 ## Connecting to the Internet - Wired
-
-[Accessing a NAS device](#nas)  
-[Connecting to the Internet - Wired](#wired)  
-[Connecting to the Internet - Wireless](#wireless)  
-[Network Shares](#shares)  
- [- Create Linux Lite Shares](#lite-shares)  
- [- Access Linux Lite shares from Windows](#wintolin)  
- [- Access Windows shares from Linux Lite](#lintowin)  
-[NitroShare - Share files with Linux, Mac & Windows](#nitroshare)  
-[Remote Access with VNC](#vnc)  
-[Setting the Time & Date](#date)  
-[USB Broadband Modem](#usbmodem)  
+[Changing Desktop Environments](#deskenv)  
+[Change Repository Location](#literepos)  
+[Creating and Extracting compressed files](#archive)  
+[File Encryption](#encrypt)  
+[Getting Software](#software)  
+[Installing Software](#instsoftware)  
+[Installing Software - From a Deb Package](#debpkg)  
+[Installing Software - From a Terminal using APT](#aptterm)  
+[Installing Software - From Source Code](#instsource)  
+[Linux Equivalents of Windows Programs](#winprogs)  
+[Lite Software - Install Software](#installsoftware)  
+[Lite Software - Remove Software](#removesoftware)  
+[Lite Sources](#litesources)  
+[Lite Tweaks](#tweaks)  
+ [- Bootup Fix](#tweaks-bootup-fix)  
+ [- Clear Memory](#tweaks-clear-memory)  
+ [- Default Web Browser](#tweaks-default-web-browser)  
+ [- Hibernate, Suspend](#tweaks-hibernate-suspend)  
+[PPA - Adding](#ppa)  
+[PPA - Removing](#pparem)  
+[Software Updates Country Location](#sources)  
+[Uninstalling Software](#uninstsoftware)  
+[Updates](#updates)  
+[Updates Notifications](#updatesnotify)  
+[Wine - Run Windows programs](#wine) 
 
 For the most part, you shouldn't have to configure anything in Network Connections if you are connected to your router with an ethernet cable. Your router is most likely already set up to give you an IP address automatically. So in this tutorial we will instead focus on connecting to your router with a static IP address.
 

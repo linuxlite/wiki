@@ -46,17 +46,19 @@ Thank you for choosing the Linux Lite Operating System.
 
 ## Keyboard Shortcuts
 
-*   Ctrl+Alt+T - opens a terminal.
-*   Ctrl+Alt+Del - opens the logout dialogue.
-*   Ctrl+Shift+Esc - opens the System Monitor.
-*   Windows key - opens the Menu.
-*   Windows key+H - opens your home folder.
-*   Windows key+L - locks the screen.
-*   Alt+F2 - opens the Application Finder dialogue box.
-*   Printscreen key - opens the screenshot program.
-*   Left Alt+Mouse wheel scroll - magnify your screen.
-*   Insert+S - toggles screen reader On and Off.
-*   Ctrl + Alt + O - opens the onscreen keyboard.
+| Shortcut                                      | Function                                  |
+|----------------------------------------------|-------------------------------------------|
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>         | Opens a terminal                          |
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Del</kbd>       | Opens the logout dialogue                 |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>     | Opens the System Monitor                  |
+| <kbd>Windows</kbd>                                      | Opens the Menu                            |
+| <kbd>Windows</kbd> + <kbd>H</kbd>                       | Opens your home folder                    |
+| <kbd>Windows</kbd> + <kbd>L</kbd>                       | Locks the screen                          |
+| <kbd>Alt</kbd> + <kbd>F2</kbd>                          | Opens the Application Finder dialogue box |
+| <kbd>Print Screen</kbd>                                | Opens the screenshot program              |
+| <kbd>Left Alt</kbd> + Mouse wheel scroll               | Magnify your screen                       |
+| <kbd>Insert</kbd> + <kbd>S</kbd>                        | Toggles screen reader On and Off          |
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>         | Opens the onscreen keyboard               |
  
 
 
@@ -102,15 +104,15 @@ There are many ways to do this. One of these should work for your system:
 
 On some laptops you may have to enable **Numlock** as it is disabled by default. You could also try **FN + Numlock** to use your keys, or **FN +** one of the **F** keys across the top of your keyboard. This varies from computer to computer. Some examples follow:
 
-Fn + F11 (Acer, Toshiba, Samsung)  
-Shift + Num Lock  
-Fn + Num Lock (Sony, Gateway)  
-Fn + F11 + Scroll lock  
-Fn + F8 (HP)  
-Ctrl + F11  
-Fn + Shift + Num Lock  
-Fn + F4 (Dell)  
-Fn + Nmlk (Lenovo, ASUS)  
+<kbd>Fn</kbd> + <kbd>F11</kbd> (Acer, Toshiba, Samsung)  
+<kbd>Shift</kbd> + <kbd>Num Lock</kbd>  
+<kbd>Fn</kbd> + <kbd>Num Lock</kbd> (Sony, Gateway)  
+<kbd>Fn</kbd> + <kbd>F11</kbd> + <kbd>Scroll Lock</kbd>  
+<kbd>Fn</kbd> + <kbd>F8</kbd> (HP)  
+<kbd>Ctrl</kbd> + <kbd>F11</kbd>  
+<kbd>Fn</kbd> + <kbd>Shift</kbd> + <kbd>Num Lock</kbd>  
+<kbd>Fn</kbd> + <kbd>F4</kbd> (Dell)  
+<kbd>Fn</kbd> + <kbd>Nmlk</kbd> (Lenovo, ASUS)
 
 ## Lite System Report
 

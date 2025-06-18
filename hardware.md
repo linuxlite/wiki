@@ -2,25 +2,13 @@
 title: Hardware
 description: 
 published: true
-date: 2025-06-18T03:57:18.277Z
+date: 2025-06-18T03:57:32.801Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T03:57:18.277Z
 ---
 
 # Hardware
-
-*   [HOME](index.html)
-*   [CONTENTS](contents.html)
-*   [START](start.html)
-*   [INSTALL](install.html)
-*   [NETWORK](network.html)
-*   [SOFTWARE](software.html)
-*   [HARDWARE](hardware.html)
-*   [TUTORIALS](tutorials.html)
-*   [CUSTOMIZE](customize.html)
-*   [GLOSSARY](glossary.html)
-
 
 [Bluetooth - Enabling full support](#bluetooth)  
 [Booting Issues](#booting)  

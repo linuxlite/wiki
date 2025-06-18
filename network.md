@@ -2,38 +2,76 @@
 title: Network
 description: 
 published: true
-date: 2025-06-18T01:50:10.039Z
+date: 2025-06-18T01:52:43.000Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:36:30.167Z
 ---
 
+Help Manual - Network            b {font-weight: 400;} i {font-style: italic;}  .highlight { background: #FFFF40; } (adsbygoogle = window.adsbygoogle || \[\]).push({ google\_ad\_client: "ca-pub-1883744520022866", enable\_page\_level\_ads: true });
+
+[![](images/logo.png)](index.html)
+
+*   [HOME](index.html)
+*   [CONTENTS](contents.html)
+*   [START](start.html)
+*   [INSTALL](install.html)
+*   [NETWORK](network.html)
+*   [SOFTWARE](software.html)
+*   [HARDWARE](hardware.html)
+*   [TUTORIALS](tutorials.html)
+*   [CUSTOMIZE](customize.html)
+*   [GLOSSARY](glossary.html)
+
+*   [](https://www.facebook.com/linuxliteos)
+*   [](https://twitter.com/linuxlite)
+*   [](https://www.reddit.com/r/LinuxLite/)
+
+[![](images/logo.png)](index.html)
+
+![](images/menu.png)
+
+*   [HOME](index.html)
+*   [CONTENTS](contents.html)
+*   [START](start.html)
+*   [INSTALL](install.html)
+*   [NETWORK](network.html)
+*   [SOFTWARE](software.html)
+*   [HARDWARE](hardware.html)
+*   [TUTORIALS](tutorials.html)
+*   [CUSTOMIZE](customize.html)
+*   [GLOSSARY](glossary.html)
+
+$("span.menu").click(function(){ $(".top-nav-in ul").slideToggle(500, function(){ }); });
+
+.ll\_responsive\_1 { width: 320px; height: 100px; } @media(min-width: 500px) { .ll\_responsive\_1 { width: 468px; height: 60px; } } @media(min-width: 800px) { .ll\_responsive\_1 { width: 728px; height: 90px; } } (adsbygoogle = window.adsbygoogle || \[\]).push({});
+
+[Accessing a NAS device](#nas)  
+[Connecting to the Internet - Wired](#wired)  
+[Connecting to the Internet - Wireless](#wireless)  
+[Network Shares](#shares)  
+ [- Create Linux Lite Shares](#lite-shares)  
+ [- Access Linux Lite shares from Windows](#wintolin)  
+ [- Access Windows shares from Linux Lite](#lintowin)  
+[NitroShare - Share files with Linux, Mac & Windows](#nitroshare)  
+[Remote Access with VNC](#vnc)  
+[Setting the Time & Date](#date)  
+[USB Broadband Modem](#usbmodem)  
+
+   
+  
+Results per page: 7 20 50 100  
+  
+
+Match:  
+ any search terms    all search terms  
+  
+
+TIP: For optimal results, only search for one or two words eg. _printer_ instead of _how do I install a printer_
+
+  
+
 ## Connecting to the Internet - Wired
-[Changing Desktop Environments](#deskenv)  
-[Change Repository Location](#literepos)  
-[Creating and Extracting compressed files](#archive)  
-[File Encryption](#encrypt)  
-[Getting Software](#software)  
-[Installing Software](#instsoftware)  
-[Installing Software - From a Deb Package](#debpkg)  
-[Installing Software - From a Terminal using APT](#aptterm)  
-[Installing Software - From Source Code](#instsource)  
-[Linux Equivalents of Windows Programs](#winprogs)  
-[Lite Software - Install Software](#installsoftware)  
-[Lite Software - Remove Software](#removesoftware)  
-[Lite Sources](#litesources)  
-[Lite Tweaks](#tweaks)  
- [- Bootup Fix](#tweaks-bootup-fix)  
- [- Clear Memory](#tweaks-clear-memory)  
- [- Default Web Browser](#tweaks-default-web-browser)  
- [- Hibernate, Suspend](#tweaks-hibernate-suspend)  
-[PPA - Adding](#ppa)  
-[PPA - Removing](#pparem)  
-[Software Updates Country Location](#sources)  
-[Uninstalling Software](#uninstsoftware)  
-[Updates](#updates)  
-[Updates Notifications](#updatesnotify)  
-[Wine - Run Windows programs](#wine) 
 
 For the most part, you shouldn't have to configure anything in Network Connections if you are connected to your router with an ethernet cable. Your router is most likely already set up to give you an IP address automatically. So in this tutorial we will instead focus on connecting to your router with a static IP address.
 
@@ -84,7 +122,7 @@ After a successful connection, you should see a tray icon like the one shown bel
 
 ![](images/network/wireless/wireless-4.png)
 
-
+[Top of page](#top)
 
 ## USB Broadband Modem
 
@@ -96,7 +134,7 @@ Right click on the Network Connections tray icon and select **New Mobile Broadba
 
 At this stage no other modems have been tested.
 
-
+[Top of page](#top)
 
 ## NitroShare - Share files with Linux, Mac & Windows
 
@@ -146,7 +184,7 @@ Transfer successful.
 
 ![](images/network/nitroshare/nitroshare-11.png)
 
-
+[Top of page](#top)
 
 ## Accessing a NAS device
 
@@ -182,7 +220,7 @@ Now that we've given VLC the network credentials it needs to access your NAS, we
 
 ![](images/network/nas/nas7.png)
 
-
+[Top of page](#top)
 
 ## Network Shares
 
@@ -342,7 +380,7 @@ strict locking = no
   
   
 
-
+[Top of page](#top)
 
 ## Accessing Linux Lite shares from Windows
 
@@ -372,7 +410,7 @@ All that's left to do is to double click on the Linux Lite share and we will be 
 
 ![](images/network/smb/access_ll4.png)
 
-
+[Top of page](#top)
 
 ## Accessing Windows shares from Linux Lite
 
@@ -404,7 +442,7 @@ Now you can copy and paste files to your Windows computer.
 
 **NOTE: If you are still not having any luck with either method, try [NitroShare](http://nitroshare.net/), a cross-platform network sharing application for Windows, Mac and Linux. You can view a video tutorial on it [here](http://www.youtube.com/watch?v=0QduAP4CxXI). Another method you could consider is setting up an FTP server on your Windows computer and connecting to it with Filezilla, available from Menu, Settings, Lite Software.**
 
-
+[Top of page](#top)
 
 ## Remote Access with VNC
 
@@ -553,7 +591,7 @@ From a client computer in your network, using a VNC client of your choice (Remmi
 
 ![](images/network/vnc/vnc6.png)
 
-
+[Top of page](#top)
 
 ## Setting the Time and Date
 
@@ -570,3 +608,7 @@ Click inside the **Time zone** box. In the following example we have **Pacific/A
 Click on one of the **red** dots in your timezone/location. Click on **Close** to finish.
 
 ![](images/network/datetime/date-time3.png)
+
+[Top of page](#top)
+
+.ll\_responsive\_1 { width: 320px; height: 100px; } @media(min-width: 500px) { .ll\_responsive\_1 { width: 468px; height: 60px; } } @media(min-width: 800px) { .ll\_responsive\_1 { width: 728px; height: 90px; } } (adsbygoogle = window.adsbygoogle || \[\]).push({});

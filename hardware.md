@@ -2,7 +2,7 @@
 title: Hardware
 description: 
 published: true
-date: 2025-06-18T04:57:36.707Z
+date: 2025-06-18T04:58:25.943Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T03:57:18.277Z
@@ -104,7 +104,7 @@ This method should ONLY be used if the above nVidia install method does not give
 
 Terminal Command:
 
-						`sudo apt-get update`
+						sudo apt-get update
 
   
 
@@ -112,7 +112,7 @@ To install the recommended driver, run the following command:
 
 Terminal Command:
 
-						`sudo ubuntu-drivers autoinstall`
+						sudo ubuntu-drivers autoinstall
 
   
 
@@ -409,7 +409,7 @@ If you have an HP Printer and you used this guide to successfully install your p
 
 Terminal Command:
 
-						`sudo apt-get install hplip-gui`
+						sudo apt-get install hplip-gui
 
   
 
@@ -467,19 +467,19 @@ You may be in a situation where you want to modify or repair your dual boot set 
 
 Terminal Command:
 
-						`sudo add-apt-repository ppa:yannubuntu/boot-repair`
+						sudo add-apt-repository ppa:yannubuntu/boot-repair
 
   
 
 Terminal Command:
 
-						`sudo apt-get update`
+						sudo apt-get update
 
   
 
 Terminal Command:
 
-						`sudo apt-get install -y boot-repair && (boot-repair &)`
+						sudo apt-get install -y boot-repair && (boot-repair &)
 
   
 

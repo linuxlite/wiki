@@ -2,41 +2,13 @@
 title: Software
 description: 
 published: true
-date: 2025-06-18T01:30:43.321Z
+date: 2025-06-18T01:43:55.752Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:00:38.020Z
 ---
 
 ## Software
-
-[Changing Desktop Environments](#deskenv)  
-[Change Repository Location](#literepos)  
-[Creating and Extracting compressed files](#archive)  
-[File Encryption](#encrypt)  
-[Getting Software](#software)  
-[Installing Software](#instsoftware)  
-[Installing Software - From a Deb Package](#debpkg)  
-[Installing Software - From a Terminal using APT](#aptterm)  
-[Installing Software - From Source Code](#instsource)  
-[Linux Equivalents of Windows Programs](#winprogs)  
-[Lite Software - Install Software](#installsoftware)  
-[Lite Software - Remove Software](#removesoftware)  
-[Lite Sources](#litesources)  
-[Lite Tweaks](#tweaks)  
- [- Bootup Fix](#tweaks-bootup-fix)  
- [- Clear Memory](#tweaks-clear-memory)  
- [- Default Web Browser](#tweaks-default-web-browser)  
- [- Hibernate, Suspend](#tweaks-hibernate-suspend)  
-[PPA - Adding](#ppa)  
-[PPA - Removing](#pparem)  
-[Software Updates Country Location](#sources)  
-[Uninstalling Software](#uninstsoftware)  
-[Updates](#updates)  
-[Updates Notifications](#updatesnotify)  
-[Wine - Run Windows programs](#wine)
-
-  
 
 ## Getting Software
 

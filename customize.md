@@ -2,24 +2,11 @@
 title: Customize
 description: 
 published: true
-date: 2025-06-18T04:07:08.328Z
+date: 2025-06-18T04:12:26.532Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T04:07:08.328Z
 ---
-
-
-[Applying a new Icon set](#apply_icon)  
-[Applying a new Mouse theme](#mouse_theme)  
-[Applying a new Theme](#apply_theme)  
-[Customizing Linux Lite](#custll)  
-[Customize your Panel Bar](#panel)  
-[Desktop Settings basics](#desktop)  
-[Lite Desktop Widget](#litewidget)  
-[Themes & Icon sets](#themes)  
-[Window Manager Tweaks](#tweaks)  
-[Workspace Settings](#workspaces)
-
 
 ## Customizing Linux Lite
 

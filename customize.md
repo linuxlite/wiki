@@ -234,6 +234,10 @@ Now click into **Window Manager** and select **Axiom**. The new theme may not di
 
 ![](images/customize/themes/themes-09.png)
 
+### Note
+You can also enable `Set matching Xfwm4 theme if there is one` in **Appearance** and skip applying the **Window Manager** theme manually.
+
+![](images/customize/themes/themes-10.png)
 
 
 ## Applying a new Icon set

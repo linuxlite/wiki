@@ -2,7 +2,7 @@
 title: Install
 description: 
 published: true
-date: 2025-06-18T05:00:03.980Z
+date: 2025-06-18T05:02:05.166Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T11:14:03.674Z
@@ -867,7 +867,7 @@ And follow the onscreen instructions.
 
 **NOTE: Choose a strong password, a mix of upper and lower case as well as a mix of numbers and characters. An example of this would be:**
 
-						**y%9L2x#o
+						h8Ea#m04C!kS5x^p
 
   
 

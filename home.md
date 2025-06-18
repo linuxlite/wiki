@@ -2,7 +2,7 @@
 title: Start
 description: 
 published: true
-date: 2025-06-18T07:16:30.102Z
+date: 2025-06-18T07:16:56.090Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T12:49:40.857Z
@@ -42,6 +42,7 @@ Thank you for choosing the Linux Lite Operating System.
 *   https://www.facebook.com/linuxliteos
 *   https://twitter.com/linuxlite
 *   https://www.reddit.com/r/LinuxLite/
+*   https://discord.com/channels/1042646000193503243/1042646001179168820
 
 ## Keyboard Shortcuts
 

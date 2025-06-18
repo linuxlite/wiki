@@ -2,14 +2,11 @@
 title: Network
 description: 
 published: true
-date: 2025-06-18T01:43:14.963Z
+date: 2025-06-18T01:45:00.521Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:36:30.167Z
 ---
-
-# Network
-
 
 ## Connecting to the Internet - Wired
 

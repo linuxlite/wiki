@@ -2,7 +2,7 @@
 title: Software
 description: 
 published: true
-date: 2025-06-18T01:44:44.858Z
+date: 2025-06-18T05:15:20.640Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T01:00:38.020Z
@@ -66,9 +66,7 @@ We'll go into the newly extracted folder, right click, **Open Terminal Here** an
 
 Terminal Command:
 
-						`./configure`
-
-  
+						./configure
 
 ![](images/software/sourcecode/source-3.png)
 
@@ -96,9 +94,7 @@ Now we can compile the actual application with the **make** command.
 
 Terminal Command:
 
-						`make`
-
-  
+						make
 
 This process can take quite a while, so let it run it's course.
 
@@ -114,9 +110,7 @@ Now to install the application. Here we use the **sudo make install** command. E
 
 Terminal Command:
 
-						`sudo make install`
-
-  
+						sudo make install
 
 Once our program has installed, we can run the application command (pidgin) from the Terminal. Note that we place a space and the **&** symbol at the end. This is so that we can still run the application and close the Terminal.
 
@@ -132,9 +126,7 @@ Open a Terminal from inside the source code folder of the application you want t
 
 Terminal Command:
 
-						`sudo make uninstall`
-
-  
+						sudo make uninstall
 
 Enter your password.
 
@@ -182,9 +174,7 @@ If you don't have the package anymore, open a terminal and enter the application
 
 Terminal Command:
 
-						`sudo dpkg -r teamviewer`
-
-  
+						sudo dpkg -r teamviewer
 
 Enter your password. The application has been removed.
 
@@ -206,9 +196,7 @@ In the following examples, we'll use APT to install, remove, manage and get info
 
 Terminal Command:
 
-						`sudo apt update`
-
-  
+						sudo apt update
 
 ![](images/software/termpkg/termpkg-1.png)
 
@@ -218,9 +206,7 @@ This command ensures we are getting the latest versions of all software from wit
 
 Terminal Command:
 
-						`sudo apt install ristretto`
-
-  
+						sudo apt install ristretto
 
 ![](images/software/termpkg/termpkg-2.png)
 
@@ -230,9 +216,7 @@ Terminal Command:
 
 Terminal Command:
 
-						`sudo apt remove ristretto`
-
-  
+						sudo apt remove ristretto
 
 ![](images/software/termpkg/termpkg-3.png)
 
@@ -240,9 +224,7 @@ Remove an installed package and all of its dependencies:
 
 Terminal Command:
 
-						`sudo apt autoremove ristretto`
-
-  
+						sudo apt autoremove ristretto
 
 **Other useful APT commands**.
 
@@ -250,114 +232,85 @@ Install more than one program. Leave a space in between program names:
 
 Terminal Command:
 
-						`sudo apt install ristretto midori`
-
-  
+						sudo apt install ristretto midori
 
 Remove more than one program. Leave a space in between program names:
 
 Terminal Command:
 
-						`sudo apt remove ristretto midori`
-
-  
+						sudo apt remove ristretto midori
 
 This command will remove the program and all of its configuration files. Useful if you don't want any left over files.
 
 Terminal Command:
 
-						`sudo apt purge ristretto`
-
-  
+						sudo apt purge ristretto
 
 Update all of your system software from the repositories (specific to Linux Lite)::
 
 Terminal Command:
 
-						`sudo apt update && sudo apt dist-upgrade`
-
-  
+						sudo apt update && sudo apt dist-upgrade
 
 Whenever you install a program, its package is downloaded to a folder. Over time, this folder will grow in size, use this command to empty that folder:
 
 Terminal Command:
 
-						`sudo apt clean`
-
-  
+						sudo apt clean
 
 This command will also remove any unneeded packages associated with an **apt remove** command when you have removed a specific program. It will also remove unused kernels:
 
 Terminal Command:
 
-						`sudo apt autoremove`
-
-  
+						sudo apt autoremove
 
 To search for a specific piece of software and get its description:
 
 Terminal Command:
 
-						`apt-cache search ristretto`
-
-  
+						apt-cache search ristretto
 
 To list all packages containing a particular name:
 
 Terminal Command:
 
-						`apt-cache pkgnames leaf`
-
-  
+						apt-cache pkgnames leaf
 
 For a more thorough explanation of a package and its details:
 
 Terminal Command:
 
-						`apt-cache show ristretto`
-
-  
+						apt-cache show ristretto
 
 To list what extra packages (dependencies) are going to be installed with a piece of software:
 
 Terminal Command:
 
-						`apt-cache showpkg ristretto`
-
-  
+						apt-cache showpkg ristretto
 
 How to install a piece of software without it ever being upgraded:
 
 Terminal Command:
 
-						`sudo apt install ristretto --no-upgrade`
-
-  
+						sudo apt install ristretto --no-upgrade
 
 How to upgrade only specific pieces of software:
 
 Terminal Command:
 
-						`sudo apt install ristretto --only-upgrade`
-
-  
+						sudo apt install ristretto --only-upgrade
 
 How to download a piece of software:
 
 Terminal Command:
 
-						`apt download ristretto`
-
-  
+						apt download ristretto
 
 View the changes in a package since last release:
 
 Terminal Command:
 
-						`apt changelog ristretto`
-
-  
-
+						apt changelog ristretto
 
 
 ## Updates
@@ -818,9 +771,6 @@ You will need to reboot your computer for the changes to take affect.
 
 ![](images/software/litetweaks/hibesus/hibernate-suspend5.png)
 
-  
-
-
 
 ## Updates Notifications
 
@@ -843,7 +793,6 @@ To **enable** updates notifications, click on **Menu, Settings, Session and Star
 ![](images/software/liteupdatesnotify/liteupdatesnotify4.png)
 
 Updates Notifications will check for new updates on schedule as defined by the user. If no new updates are available since the last time updates were installed in the system, there will be no new notifications until new updates become available.
-
 
 
 ## Adding a PPA
@@ -897,7 +846,6 @@ Now got to **Menu, System, Package Manager** and search for your application in 
 Your new PPA application is now installed.
 
 
-
 ## Removing a PPA
 
 If for some reason we want to remove a PPA, here's how to do it.
@@ -919,7 +867,6 @@ Your removing a PPA because you no longer need or wish to run a particular piece
 **4.** The PPA removal process is now complete.
 
 
-
 ## File Encryption
 
 In todays world, security of your personal files is important. Whether your transporting documents on a USB drive or emailing sensitive information to a friend, colleague or company, encryption is a necessary security measure.
@@ -930,9 +877,7 @@ Open a terminal and type:
 
 Terminal Command:
 
-						`sudo apt-get install mcrypt -y`
-
-  
+						sudo apt-get install mcrypt -y
 
 **2.** Once mcrypt is installed, we'll set a custom right click action in our file manager to make encryption of files super easy. Open up your home folder, click on **Edit, Configure custom actions**.
 
@@ -999,7 +944,6 @@ As you can see our file is decrypted and ready to view.
 ![](images/software/encrypt/encrypt15.png)
 
 If you make any changes to the decrypted file, you need to delete the existing encrypted file and re-encypt the changed file.
-
 
 
 ## Creating and Extracting compressed files
@@ -1077,7 +1021,6 @@ Here is our newly created **zip** file.
 ![](images/software/archive/archive14.png)
 
 
-
 ## Changing Desktop Environments
 
 This distro is a heavily modified version of the XFCE desktop environment. However, being GNU/Linux based allows people the freedom to modify their system as they see fit. There are numerous desktop environments in GNU/Linux. Including but not limited to:
@@ -1094,7 +1037,5 @@ This distro is a heavily modified version of the XFCE desktop environment. Howev
 *   Pantheon
 *   Razor-qt
 *   Trinity
-
-  
 
 If you desire to install another desktop environment, we cannot provide specific instructions on how to do this. There are far too many variables involved and much can go wrong. This kind of system modification is best left to experienced Linux users. The whole philosophy behind Linux Lite is to provide new users to a Linux based operating system, an easy to use, functional desktop experience. Our support time is better spent dedicated to helping existing Linux Lite users on the XFCE desktop.

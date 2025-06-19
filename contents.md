@@ -12,7 +12,6 @@ dateCreated: 2025-06-13T12:57:05.760Z
 
 |     |     |
 | --- | --- |
-| [![](images/sort.png)](#) | [![](images/sort.png)](#) |
 | Adding another User | [Users](install.html#adduser) |
 | Enabling TRIM on your SSD | [Trim](install.html#enabletrim) |
 | Installation Guide | [Install](install.html#installguide) |
@@ -38,7 +37,6 @@ dateCreated: 2025-06-13T12:57:05.760Z
 
 |     |     |
 | --- | --- |
-| [![](images/sort.png)](#) | [![](images/sort.png)](#) |
 | Accessing a NAS device | [Shares](network.html#nas) |
 | Connecting to the Internet - Wired | [Connecting](network.html#wired) |
 | Connecting to the Internet - Wireless | [Connecting](network.html#wireless) |
@@ -55,7 +53,6 @@ dateCreated: 2025-06-13T12:57:05.760Z
 
 |     |     |
 | --- | --- |
-| [![](images/sort.png)](#) | [![](images/sort.png)](#) |
 | Changing Desktop Environments | [Desktop](software.html#deskenv) |
 | Creating and Extracting compressed files | [Archived Files](software.html#archive) |
 | File Encryption | [Encryption](software.html#encrypt) |
@@ -83,7 +80,6 @@ dateCreated: 2025-06-13T12:57:05.760Z
 
 |     |     |
 | --- | --- |
-| [![](images/sort.png)](#) | [![](images/sort.png)](#) |
 | Bluetooth - Enabling full support | [Bluetooth](hardware.html#bluetooth) |
 | Booting Issues | [Booting](hardware.html#booting) |
 | Dual Boot - Multiple Drives | [Booting](hardware.html#install-multi-drive) |
@@ -111,7 +107,6 @@ dateCreated: 2025-06-13T12:57:05.760Z
 
 |     |     |
 | --- | --- |
-| [![](images/sort.png)](#) | [![](images/sort.png)](#) |
 | AntiVirus | [Security](tutorials.html#antivirus) |
 | File Search | [File Search](tutorials.html#filesearch) |
 | FireWall | [Security](tutorials.html#firewall) |
@@ -126,7 +121,6 @@ dateCreated: 2025-06-13T12:57:05.760Z
 
 |     |     |
 | --- | --- |
-| [![](images/sort.png)](#) | [![](images/sort.png)](#) |
 | Applying a new Icon set | [Icons](customize.html#apply_icon) |
 | Applying a new Mouse theme | [Mouse](customize.html#mouse_theme) |
 | Applying a new Theme | [Themes](customize.html#apply_theme) |

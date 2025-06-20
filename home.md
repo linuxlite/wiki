@@ -20,12 +20,14 @@ Thank you for choosing the Linux Lite Operating System.
 
 ## Operating System
 
-*   Current Release Name: Linux Lite 7.4
-*   Architecture: 64bit
-*   Supported BIOS: Legacy, UEFI & Secure Boot
-*   Software Base: Ubuntu 24.04.2 LTS
-*   Desktop Environment: XFCE 4.18
-*   Media Type: DVD, 4gb or larger USB device
+|     |     |
+| --- | --- |
+| **Current Release Name** | Linux Lite 7.4 |
+| **Architecture** | 64bit |
+| **Supported BIOS** | Legacy, UEFI & Secure Boot |
+| **Software Base** | Ubuntu 24.04.2 LTS |
+| **Desktop Environment** | XFCE 4.18 |
+| **Media Type** | DVD, 4gb or larger USB device |
 
   
 

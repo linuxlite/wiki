@@ -377,19 +377,21 @@ Many thanks to [Mohd Sohail of LinuxAndUbuntu.com](http://www.linuxandubuntu.com
 
 ## USB Persistence
 
-USB Persistence allows the user to have a USB device with Linux Lite installed, which can be rebooted, whilst retaining all files and settings.
+**USB Persistence** allows the user to have a USB device with Linux Lite installed, which can be rebooted, whilst retaining all files and settings.
 
-In short once enabled your files and settings will ‘persist’ and you can access them at any time simply by plugging in the USB Device and booting from it.
+In short once enabled your files and settings will **‘persist’** and you can access them at any time simply by plugging in the USB Device and booting from it.
 
 The following tutorial will walk you through how to install Linux Lite to a USB device.
 
 We will use **mkusb** to create our persistent USB.
 
+### Installation Process
+
 Firstly, we install the **mkusb** PPA. It is important you follow this process line by line to ensure a clean install.
 
 **PLEASE NOTE:** Installing this will remove **USB Image Writer** and **USB Stick Formatter** tools from your system.
 
-###Terminal Command:
+### Terminal Commands:
 
 open the terminal and copy paste the following:
 

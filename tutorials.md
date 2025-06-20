@@ -377,19 +377,29 @@ Many thanks to [Mohd Sohail of LinuxAndUbuntu.com](http://www.linuxandubuntu.com
 
 ## USB Persistence
 
-USB Persistence enables the user to have a USB device with Linux Lite installed onto it, that can then be rebooted and all the files and settings are still available.
+USB Persistence allows the user to have a USB device with Linux Lite installed, which can be rebooted, whilst retaining all files and settings.
+
+In short once enabled your files and settings will ‘persist’ and you can access them at any time simply by plugging in the USB Device and booting from it.
 
 The following tutorial will walk you through how to install Linux Lite to a USB device.
 
 We will use **mkusb** to create our persistent USB.
 
-First, we install the **mkusb** PPA. Complete one line at a time.
+Firstly, we install the **mkusb** PPA. It is important you follow this process line by line to ensure a clean install.
 
-**NOTE:** Installing this will remove **USB Image Writer** and **USB Stick Formatter**.
+**PLEASE NOTE:** Installing this will remove **USB Image Writer** and **USB Stick Formatter** tools from your system.
 
-Terminal Command:
+###Terminal Command:
 
-						sudo add-apt-repository ppa:mkusb/ppa   sudo apt install --install-recommends mkusb mkusb-nox usb-pack-efi
+open the terminal and copy paste the following:
+
+	sudo add-apt-repository ppa:mkusb/ppa
+ 
+ **NOTE:** If your terminal hangs on this step, you may need to disable IPv6 in order to proceed. 
+
+once complete then copy paste and run the following which will install **mkusb**.
+
+	sudo apt install --install-recommends mkusb mkusb-nox usb-pack-efi
 
 Launch **mkusb, Menu, System, mkusb**.
 
@@ -414,6 +424,14 @@ Select **Install (make a boot device)** and click on **OK**.
 Select **'Persistent live' - only Debian and Ubuntu** and click on **OK**.
 
 ![](images/tutorials/usbpers/usbpers-06.png)
+
+Select **’Dus-Iso2USB’, grub-n-iso method** then click on **OK**.
+
+![](images/tutorials/usbpers/mkusb1.png)
+
+Click **OK**.
+
+![](images/tutorials/usbpers/mkusb2.png)
 
 Select the Linux Lite ISO image file.
 
@@ -446,8 +464,6 @@ The process is now complete. Click on all the **Quit** options. You can now plug
 ![](images/tutorials/usbpers/usbpers-13.png)
 
 ![](images/tutorials/usbpers/usbpers-14.png)
-
-
 
 ## VirtualBox
 

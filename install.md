@@ -2,7 +2,7 @@
 title: Install
 description: 
 published: true
-date: 2025-06-25T09:09:00.579Z
+date: 2025-06-25T09:13:52.280Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T11:14:03.674Z
@@ -47,7 +47,7 @@ Place a blank DVD in your DVD drive, open up the program, select the ISO file th
 
 ## Writing the Linux Lite ISO to USB on Linux (see above, the process is similar)
 
-**Etcher** allows you to create a bootable Live USB drive. You will need a 4GB or larger USB drive. Download Etcher from <a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">here</a>
+**Etcher** allows you to create a bootable Live USB drive. You will need a 4GB or larger USB drive. Download Etcher from <a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">here</a>.
 
   
 
@@ -55,7 +55,7 @@ Place a blank DVD in your DVD drive, open up the program, select the ISO file th
 
 **Using a GUI application**
 
-You can use Etcher as mentioned above to write the Linux Lite ISO image to a USB. You will need a 4Gb or larger USB drive. Etcher works on - Windows, Mac & Linux. Download it from [here](https://www.balena.io/etcher/).
+You can use Etcher as mentioned above to write the Linux Lite ISO image to a USB. You will need a 4Gb or larger USB drive. Etcher works on - Windows, Mac & Linux. Download it from <a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">here</a>.
 
 **Using a Terminal**
 

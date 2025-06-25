@@ -2,41 +2,15 @@
 title: Install
 description: 
 published: true
-date: 2025-06-18T05:02:05.166Z
+date: 2025-06-25T09:26:32.088Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T11:14:03.674Z
 ---
 
-## Install
-
-[Adding another User](#adduser)  
-[Enabling TRIM on your SSD](#enabletrim)  
-[Installation Guide](#installguide)  
-[Installing Linux Lite to your computer - UEFI Mode](#installuefimode)  
-[Installing Linux Lite to your computer - Legacy BIOS Mode](#installlegacymode)  
-[Drives & Partitions](#partdrives)  
- [- Mounting Drives & Partitions](#mountpartdrives)  
- [- Automount Drives & Partitions for all users](#automountpartdrives)  
- [- Automount Windows Partitions for all users](#automountwinpartdrives)  
- [- Controlling Access to Mounted Drives - Advanced Users](#mountcontrolaccess)  
-[No USB Boot option in the BIOS?](#plop)  
-[OEM Install (not in Series 6 and above)](#oeminstall)  
-[Preparing your Computer](#prepareinst)  
-[Removing a User](#userdel)  
-[Resetting your Password](#respassword)  
-[Securely Erasing files Permanently](#secureerase)  
-[Setting your Language](#setlang)  
-[Terminal Basics](#termbasics)  
-[Writing Linux Lite to USB on Windows](#llusbwin)  
-[Writing Linux Lite to DVD on Windows](#lldvdwin)  
-[Writing Linux Lite to USB in Linux](#llusblin)  
-[Writing Linux Lite to USB on Linux and OSX](#lldvdusbosx)
-
-
 ## Installation Guide
 
-To install Linux Lite you will need to download the ISO file, then create either a bootable DVD or USB stick from the ISO. To create a bootable DVD, you need to burn the ISO as an "image" to the DVD. Below are listed three free Windows programs that will enable you to do that. If burning to a USB stick, we have also listed a free program that we recommend for doing that in Windows; or a reliable method to create a bootable USB when using a Linux system, or OSX.
+To install Linux Lite you will need to download the ISO file, then create either a bootable DVD or USB stick from the ISO. To create a bootable DVD, you need to burn the ISO as an "image" to the DVD. Below are listed three free Windows programs that will enable you to do that. If burning to a USB stick, we have also listed a free program that we recommend for doing that in Windows; or a reliable method to create a bootable USB when using a Linux system, or MacOS.
 
 Once you have your bootable media created, you may need to access your computer's BIOS settings to set the boot order for booting CD/DVD/USB's first (before the hard drive). Typically there will be one or two special keys that can be pressed during initial power-up of the computer (before an operating system starts booting) that will allow you access to either the BIOS Settings/Startup Menu or a separate Boot Menu. Specific keys vary from one manufacturer to the next, so refer to your user manual if you are not sure how to access the settings.
 
@@ -44,11 +18,13 @@ Once you have your bootable media created, you may need to access your computer'
 
 A good, simple point and click USB ISO burner is Etcher or Rufus.
 
-Links - [Etcher Home Page,](https://www.balena.io/etcher/) [Rufus Home Page.](https://rufus.ie)
+<a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">Etcher Home Page</a>
+
+<a href="https://rufus.ie" target="_blank" rel="noopener noreferrer">Rufus Home Page</a>
 
 ## Guide:
 
-\- Insert a 4Gb or larger USB stick into your PC. You **MUST** format the entire USB drive to Fat32 before proceeding.
+\- Insert a 4GB or larger USB stick into your PC. You **MUST** format the entire USB drive to Fat32 before proceeding.
 
 \- Install, then start Etcher or Rufus.
 
@@ -60,25 +36,26 @@ These instructions are generic for Windows (Rufus is Windows only), Linux and Ma
 
 Here is some free DVD burning software for you to select from:
 
-BurnAware Free - [http://www.burnaware.com](http://www.burnaware.com)
+<a href="http://www.burnaware.com" target="_blank" rel="noopener noreferrer">BurnAware Free Home Page</a>
 
-CDBurnerXP - [http://cdburnerxp.se/](http://cdburnerxp.se/)
+<a href="http://cdburnerxp.se/" target="_blank" rel="noopener noreferrer">CDBurnerXP Free Home Page</a>
 
-ImgBurn - [http://www.imgburn.com/](http://www.imgburn.com/)
+<a href="http://www.imgburn.com/" target="_blank" rel="noopener noreferrer">ImgBurn Free Home Page</a>
+<br>
 
 Place a blank DVD in your DVD drive, open up the program, select the ISO file that you want to burn. Choose the lowest burn speed, this will greatly reduce the risk of your burn becoming corrupt as can sometimes happen. A 4x or 6x speed is recommended if you have it. The lower the burn speed, the better.
 
 ## Writing the Linux Lite ISO to USB on Linux (see above, the process is similar)
 
-**Etcher** allows you to create a bootable Live USB drive. You will need a 4Gb or larger USB drive. Download Etcher from [here](https://www.balena.io/etcher/).
+**Etcher** allows you to create a bootable Live USB drive. You will need a 4GB or larger USB drive. Download Etcher from <a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">here</a>.
 
   
 
-## Writing the Linux Lite ISO to USB in Linux and OSX (see above, the process is similar)
+## Writing the Linux Lite ISO to USB in Linux and MacOS (see above, the process is similar)
 
 **Using a GUI application**
 
-You can use Etcher as mentioned above to write the Linux Lite ISO image to a USB. You will need a 4Gb or larger USB drive. Etcher works on - Windows, Mac & Linux. Download it from [here](https://www.balena.io/etcher/).
+You can use Etcher as mentioned above to write the Linux Lite ISO image to a USB. You will need a 4Gb or larger USB drive. Etcher works on - Windows, Mac & Linux. Download it from <a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">here</a>.
 
 **Using a Terminal**
 
@@ -110,7 +87,7 @@ The Live DVD/USB image will boot into the desktop automatically, there is no nee
 
 ## No USB Boot option in the BIOS? Use PloP
 
-For full instructions click [here](http://www.howtogeek.com/howto/16822/boot-from-a-usb-drive-even-if-your-BIOS-wont-let-you/).
+For full instructions click <a href="https://www.plop.at/en/ploplinux/live/usb.html" target="_blank" rel="noopener noreferrer">here</a>.
 
 ## Preparing your Computer for the Installation
 
@@ -144,7 +121,7 @@ If you have **more than one physical hard drive** and want to dual-boot Windows 
 
 Start your computer, and go into your system BIOS and check that the boot order is set so that DVD and USB devices are set to boot first. This varies from BIOS to BIOS. Refer to your motherboard documentation for more information.
 
-You are advised to disable Secure Boot and make sure UEFI is set to Enabled in your BIOS. See [here](start.html#secboot) for more information before proceeding if you need any more clarification.
+You are advised to disable Secure Boot and make sure UEFI is set to Enabled in your BIOS. See [here](home.md#secure-boot) for more information before proceeding if you need any more clarification.
 
 Once you are happy with your BIOS set up, insert the DVD disc or USB stick into your computer and reboot your computer. You'll be greeted with the following screen. Let the timer run down if you want to boot to the Live session.
 

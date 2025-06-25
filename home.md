@@ -2,7 +2,7 @@
 title: Start
 description: 
 published: true
-date: 2025-06-18T07:16:56.090Z
+date: 2025-06-25T09:36:24.060Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T12:49:40.857Z
@@ -27,24 +27,25 @@ Thank you for choosing the Linux Lite Operating System.
 | **Supported BIOS** | Legacy, UEFI & Secure Boot |
 | **Software Base** | Ubuntu 24.04.2 LTS |
 | **Desktop Environment** | XFCE 4.18 |
-| **Media Type** | DVD, 4gb or larger USB device |
+| **Media Type** | DVD, 4GB or larger USB device |
 
   
 
-## Preferred Computer Requirements:
+## Recommended Computer Requirements:
 
-*   1.5 Ghz processor+
-*   1Gb ram+
-*   20Gb HDD/SSD+
-*   VGA, DVI or HDMI screen capable of 1366x768 resolution+
+*   1.5 Ghz Dual Core Processor or greater
+*   2GB ram
+*   40GB HDD/SSD/NVME
+*   VGA, DVI, DP or HDMI screen capable of 1366x768 resolution
 *   DVD drive or USB port for the ISO image
+*   Disable Secure Boot
 
 ## Social Media:
 
-*   https://www.facebook.com/linuxliteos
-*   https://twitter.com/linuxlite
-*   https://www.reddit.com/r/LinuxLite/
-*   https://discord.com/channels/1042646000193503243/1042646001179168820
+*   <a href="https://www.facebook.com/linuxliteos" target="_blank" rel="noopener noreferrer">https://www.facebook.com/linuxliteos</a>
+*   <a href="https://twitter.com/linuxlite" target="_blank" rel="noopener noreferrer">https://twitter.com/linuxlite</a>
+*   <a href="https://www.reddit.com/r/LinuxLite/" target="_blank" rel="noopener noreferrer">https://www.reddit.com/r/LinuxLite/</a>
+*   <a href="https://discord.com/channels/1042646000193503243/1042646001179168820" target="_blank" rel="noopener noreferrer">https://discord.com/channels/1042646000193503243/1042646001179168820</a>
 
 ## Keyboard Shortcuts
 
@@ -74,7 +75,7 @@ The first thing you should do after a new install is click on **Menu, Favorites,
 
 ## UEFI
 
-According to [How-To-Geek](https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/), "The BIOS will soon be dead: Intel has announced plans to completely replace it with UEFI on all their chipsets by 2020. The traditional BIOS still has serious limitations. It can only boot from drives of 2.1 TB or less. 3 TB drives are now common, and a computer with a BIOS can’t boot from them. That limitation is due to the way the BIOS’s Master Boot Record system works. UEFI replaces the traditional BIOS on PCs. There’s no way to switch from BIOS to UEFI on an existing PC."
+According to <a href="https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/" target="_blank" rel="noopener noreferrer">How-To-Geek</a>, *"The BIOS will soon be dead: Intel has announced plans to completely replace it with UEFI on all their chipsets by 2020. The traditional BIOS still has serious limitations. It can only boot from drives of 2.1 TB or less. 3 TB drives are now common, and a computer with a BIOS can’t boot from them. That limitation is due to the way the BIOS’s Master Boot Record system works. UEFI replaces the traditional BIOS on PCs. There’s no way to switch from BIOS to UEFI on an existing PC."*
 
 ## How do I know if my computer has UEFI?
 
@@ -140,14 +141,12 @@ If you are using a program for example **Chrome**, the first port of call should
 
 ## Social Networks
 
-**Facebook:** [https://www.facebook.com/linuxliteos](https://www.facebook.com/linuxliteos)  
-**Twitter:** [https://twitter.com/LinuxLite](https://twitter.com/LinuxLite)  
-**Instagram:** [https://www.instagram.com/linuxliteos/](https://www.instagram.com/linuxliteos/)  
-**YouTube:** [http://www.youtube.com/c/linuxliteos](http://www.youtube.com/c/linuxliteos)  
-**Discord:** [https://discord.gg/bQSFaFAUkm](https://discord.gg/bQSFaFAUkm)  
+**Facebook:** [https://www.facebook.com/linuxliteos](https://www.facebook.com/linuxliteos)
+**Twitter:** [https://twitter.com/LinuxLite](https://twitter.com/LinuxLite)
+**Reddit:** [https://www.reddit.com/r/LinuxLite/](https://www.reddit.com/r/LinuxLite/)
+**YouTube:** [http://www.youtube.com/c/linuxliteos](http://www.youtube.com/c/linuxliteos)
+**Discord:** [https://discord.com/channels/1042646000193503243/1042646001179168820](https://discord.com/channels/1042646000193503243/1042646001179168820)  
 **LinkedIn:** [http://www.linkedin.com/in/jerrybezencon](http://www.linkedin.com/in/jerrybezencon)
-
-[Top of page](#top)
 
 ## Tour
 

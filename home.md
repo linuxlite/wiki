@@ -2,7 +2,7 @@
 title: Start
 description: 
 published: true
-date: 2025-06-25T08:55:22.627Z
+date: 2025-06-25T08:56:08.447Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T12:49:40.857Z
@@ -34,8 +34,8 @@ Thank you for choosing the Linux Lite Operating System.
 ## Recommended Computer Requirements:
 
 *   1.5 Ghz Dual Core Processor or greater
-*   2Gb ram
-*   40Gb HDD/SSD/NVME
+*   2GB ram
+*   40GB HDD/SSD/NVME
 *   VGA, DVI or HDMI screen capable of 1366x768 resolution
 *   DVD drive or USB port for the ISO image
 *   Disable Secure Boot

@@ -2,7 +2,7 @@
 title: Install
 description: 
 published: true
-date: 2025-06-25T09:00:19.772Z
+date: 2025-06-25T09:04:31.964Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T11:14:03.674Z
@@ -18,9 +18,9 @@ Once you have your bootable media created, you may need to access your computer'
 
 A good, simple point and click USB ISO burner is Etcher or Rufus.
 
-Links - [Etcher Home Page,](https://www.balena.io/etcher/) [Rufus Home Page.](https://rufus.ie)
+<a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">Etcher Home Page</a>
 
-<a href="https://example.com" target="_blank" rel="noopener noreferrer">Visit Example</a>
+<a href="https://rufus.ie" target="_blank" rel="noopener noreferrer">Rufus Home Page</a>
 
 ## Guide:
 
@@ -36,17 +36,18 @@ These instructions are generic for Windows (Rufus is Windows only), Linux and Ma
 
 Here is some free DVD burning software for you to select from:
 
-BurnAware Free - [http://www.burnaware.com](http://www.burnaware.com)
+<a href="http://www.burnaware.com" target="_blank" rel="noopener noreferrer">BurnAware Free Home Page</a>
 
-CDBurnerXP - [http://cdburnerxp.se/](http://cdburnerxp.se/)
+<a href="http://cdburnerxp.se/" target="_blank" rel="noopener noreferrer">CDBurnerXP Free Home Page</a>
 
-ImgBurn - [http://www.imgburn.com/](http://www.imgburn.com/)
+<a href="http://www.imgburn.com/" target="_blank" rel="noopener noreferrer">ImgBurn Free Home Page</a>
+<br>
 
 Place a blank DVD in your DVD drive, open up the program, select the ISO file that you want to burn. Choose the lowest burn speed, this will greatly reduce the risk of your burn becoming corrupt as can sometimes happen. A 4x or 6x speed is recommended if you have it. The lower the burn speed, the better.
 
 ## Writing the Linux Lite ISO to USB on Linux (see above, the process is similar)
 
-**Etcher** allows you to create a bootable Live USB drive. You will need a 4Gb or larger USB drive. Download Etcher from [here](https://www.balena.io/etcher/).
+**Etcher** allows you to create a bootable Live USB drive. You will need a 4Gb or larger USB drive. Download Etcher from <a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">here</a>.
 
   
 

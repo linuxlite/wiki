@@ -2,14 +2,11 @@
 title: Install
 description: 
 published: true
-date: 2025-06-25T08:58:09.164Z
+date: 2025-06-25T08:58:30.729Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T11:14:03.674Z
 ---
-
-## Install
-
 
 ## Installation Guide
 

@@ -2,7 +2,7 @@
 title: Install
 description: 
 published: true
-date: 2025-06-25T09:13:52.280Z
+date: 2025-06-25T09:16:52.268Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T11:14:03.674Z
@@ -87,7 +87,7 @@ The Live DVD/USB image will boot into the desktop automatically, there is no nee
 
 ## No USB Boot option in the BIOS? Use PloP
 
-For full instructions click [here](http://www.howtogeek.com/howto/16822/boot-from-a-usb-drive-even-if-your-BIOS-wont-let-you/).
+For full instructions click <a href="https://www.plop.at/en/ploplinux/live/usb.html" target="_blank" rel="noopener noreferrer">here</a>.
 
 ## Preparing your Computer for the Installation
 

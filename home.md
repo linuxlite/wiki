@@ -2,7 +2,7 @@
 title: Start
 description: 
 published: true
-date: 2025-06-25T08:54:15.341Z
+date: 2025-06-25T08:55:22.627Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T12:49:40.857Z
@@ -27,7 +27,7 @@ Thank you for choosing the Linux Lite Operating System.
 | **Supported BIOS** | Legacy, UEFI & Secure Boot |
 | **Software Base** | Ubuntu 24.04.2 LTS |
 | **Desktop Environment** | XFCE 4.18 |
-| **Media Type** | DVD, 4gb or larger USB device |
+| **Media Type** | DVD, 4GB or larger USB device |
 
   
 

@@ -2,36 +2,13 @@
 title: Install
 description: 
 published: true
-date: 2025-06-18T05:02:05.166Z
+date: 2025-06-25T08:58:09.164Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T11:14:03.674Z
 ---
 
 ## Install
-
-[Adding another User](#adduser)  
-[Enabling TRIM on your SSD](#enabletrim)  
-[Installation Guide](#installguide)  
-[Installing Linux Lite to your computer - UEFI Mode](#installuefimode)  
-[Installing Linux Lite to your computer - Legacy BIOS Mode](#installlegacymode)  
-[Drives & Partitions](#partdrives)  
- [- Mounting Drives & Partitions](#mountpartdrives)  
- [- Automount Drives & Partitions for all users](#automountpartdrives)  
- [- Automount Windows Partitions for all users](#automountwinpartdrives)  
- [- Controlling Access to Mounted Drives - Advanced Users](#mountcontrolaccess)  
-[No USB Boot option in the BIOS?](#plop)  
-[OEM Install (not in Series 6 and above)](#oeminstall)  
-[Preparing your Computer](#prepareinst)  
-[Removing a User](#userdel)  
-[Resetting your Password](#respassword)  
-[Securely Erasing files Permanently](#secureerase)  
-[Setting your Language](#setlang)  
-[Terminal Basics](#termbasics)  
-[Writing Linux Lite to USB on Windows](#llusbwin)  
-[Writing Linux Lite to DVD on Windows](#lldvdwin)  
-[Writing Linux Lite to USB in Linux](#llusblin)  
-[Writing Linux Lite to USB on Linux and OSX](#lldvdusbosx)
 
 
 ## Installation Guide

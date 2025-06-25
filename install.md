@@ -2,7 +2,7 @@
 title: Install
 description: 
 published: true
-date: 2025-06-25T09:24:32.891Z
+date: 2025-06-25T09:25:30.910Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T11:14:03.674Z
@@ -121,7 +121,7 @@ If you have **more than one physical hard drive** and want to dual-boot Windows 
 
 Start your computer, and go into your system BIOS and check that the boot order is set so that DVD and USB devices are set to boot first. This varies from BIOS to BIOS. Refer to your motherboard documentation for more information.
 
-You are advised to disable Secure Boot and make sure UEFI is set to Enabled in your BIOS. See [here](start.html#secure-boot) for more information before proceeding if you need any more clarification.
+You are advised to disable Secure Boot and make sure UEFI is set to Enabled in your BIOS. See [here](start.md#secure-boot) for more information before proceeding if you need any more clarification.
 
 Once you are happy with your BIOS set up, insert the DVD disc or USB stick into your computer and reboot your computer. You'll be greeted with the following screen. Let the timer run down if you want to boot to the Live session.
 

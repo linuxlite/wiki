@@ -2,7 +2,7 @@
 title: Install
 description: 
 published: true
-date: 2025-06-25T08:58:30.729Z
+date: 2025-06-25T09:00:19.772Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T11:14:03.674Z
@@ -19,6 +19,8 @@ Once you have your bootable media created, you may need to access your computer'
 A good, simple point and click USB ISO burner is Etcher or Rufus.
 
 Links - [Etcher Home Page,](https://www.balena.io/etcher/) [Rufus Home Page.](https://rufus.ie)
+
+<a href="https://example.com" target="_blank" rel="noopener noreferrer">Visit Example</a>
 
 ## Guide:
 

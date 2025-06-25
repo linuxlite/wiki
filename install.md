@@ -2,7 +2,7 @@
 title: Install
 description: 
 published: true
-date: 2025-06-25T09:04:31.964Z
+date: 2025-06-25T09:08:02.788Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T11:14:03.674Z
@@ -10,7 +10,7 @@ dateCreated: 2025-06-17T11:14:03.674Z
 
 ## Installation Guide
 
-To install Linux Lite you will need to download the ISO file, then create either a bootable DVD or USB stick from the ISO. To create a bootable DVD, you need to burn the ISO as an "image" to the DVD. Below are listed three free Windows programs that will enable you to do that. If burning to a USB stick, we have also listed a free program that we recommend for doing that in Windows; or a reliable method to create a bootable USB when using a Linux system, or OSX.
+To install Linux Lite you will need to download the ISO file, then create either a bootable DVD or USB stick from the ISO. To create a bootable DVD, you need to burn the ISO as an "image" to the DVD. Below are listed three free Windows programs that will enable you to do that. If burning to a USB stick, we have also listed a free program that we recommend for doing that in Windows; or a reliable method to create a bootable USB when using a Linux system, or MacOS.
 
 Once you have your bootable media created, you may need to access your computer's BIOS settings to set the boot order for booting CD/DVD/USB's first (before the hard drive). Typically there will be one or two special keys that can be pressed during initial power-up of the computer (before an operating system starts booting) that will allow you access to either the BIOS Settings/Startup Menu or a separate Boot Menu. Specific keys vary from one manufacturer to the next, so refer to your user manual if you are not sure how to access the settings.
 
@@ -24,7 +24,7 @@ A good, simple point and click USB ISO burner is Etcher or Rufus.
 
 ## Guide:
 
-\- Insert a 4Gb or larger USB stick into your PC. You **MUST** format the entire USB drive to Fat32 before proceeding.
+\- Insert a 4GB or larger USB stick into your PC. You **MUST** format the entire USB drive to Fat32 before proceeding.
 
 \- Install, then start Etcher or Rufus.
 
@@ -47,7 +47,7 @@ Place a blank DVD in your DVD drive, open up the program, select the ISO file th
 
 ## Writing the Linux Lite ISO to USB on Linux (see above, the process is similar)
 
-**Etcher** allows you to create a bootable Live USB drive. You will need a 4Gb or larger USB drive. Download Etcher from <a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">here</a>.
+**Etcher** allows you to create a bootable Live USB drive. You will need a 4GB or larger USB drive. Download Etcher from <a href="https://www.balena.io/etcher/" target="_blank" rel="noopener noreferrer">here</a>
 
   
 

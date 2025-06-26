@@ -2,7 +2,7 @@
 title: Tutorials
 description: 
 published: true
-date: 2025-06-18T05:17:59.267Z
+date: 2025-06-26T01:31:29.114Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-18T04:14:30.030Z
@@ -293,7 +293,6 @@ These snapshots can then be restored at a later point to undo all changes to the
 
 Go to **Menu, System, System Restore Utility.**
 
-**
 
 ![](images/tutorials/timeshift/timeshift1.png)
 

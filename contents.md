@@ -110,9 +110,9 @@ dateCreated: 2025-06-13T12:57:05.760Z
 | AntiVirus | [Security](tutorials.html#antivirus) |
 | File Search | [File Search](tutorials.html#filesearch) |
 | FireWall | [Security](tutorials.html#firewall) |
-| Timeshift - a System Restore utility | [Backup](tutorials.html#Timeshift) |
-| Timeshift - Creating a restore Point | [Backup](tutorials.html#Timeshiftcreate) |
-| Timeshift - Restoring a backup | [Backup](tutorials.html#Timeshiftrestore) |
+| Timeshift - a System Restore utility | [Backup](tutorials.html#timeshift) |
+| Timeshift - Creating a restore Point | [Backup](tutorials.html#timeshiftcreate) |
+| Timeshift - Restoring a backup | [Backup](tutorials.html#timeshiftrestore) |
 | USB Persistence | [USB Persistence](tutorials.html#usbpers) |
 | VirtualBox | [Virtual Machines](tutorials.html#vbox) |
 

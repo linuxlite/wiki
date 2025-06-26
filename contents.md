@@ -2,7 +2,7 @@
 title: Contents
 description: 
 published: true
-date: 2025-06-18T06:44:05.641Z
+date: 2025-06-26T01:30:56.791Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T12:57:05.760Z
@@ -111,8 +111,6 @@ dateCreated: 2025-06-13T12:57:05.760Z
 | File Search | [File Search](tutorials.html#filesearch) |
 | FireWall | [Security](tutorials.html#firewall) |
 | Timeshift - a System Restore utility | [Backup](tutorials.html#timeshift) |
-| Timeshift - Creating a restore Point | [Backup](tutorials.html#timeshiftcreate) |
-| Timeshift - Restoring a backup | [Backup](tutorials.html#timeshiftrestore) |
 | USB Persistence | [USB Persistence](tutorials.html#usbpers) |
 | VirtualBox | [Virtual Machines](tutorials.html#vbox) |
 

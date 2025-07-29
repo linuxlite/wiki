@@ -2,7 +2,7 @@
 title: Start
 description: 
 published: true
-date: 2025-06-25T09:36:24.060Z
+date: 2025-07-29T04:15:31.780Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-13T12:49:40.857Z

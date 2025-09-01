@@ -2,7 +2,7 @@
 title: Start
 description: 
 published: true
-date: 2025-09-01T10:14:19.067Z
+date: 2025-09-01T10:15:17.562Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-19T03:42:03.228Z
@@ -26,7 +26,6 @@ Thank you for choosing the Linux Lite Operating System.
 
 :pencil: **Gitlab:** [https://gitlab.com/users/linuxlite/projects](https://gitlab.com/users/linuxlite/projects)
 
-:mdi-githu:
 
 ## Operating System
 

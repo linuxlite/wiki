@@ -2,50 +2,63 @@
 title: Start
 description: 
 published: true
-date: 2025-07-29T04:15:31.780Z
+date: 2025-09-01T10:14:19.067Z
 tags: 
 editor: markdown
-dateCreated: 2025-06-13T12:49:40.857Z
+dateCreated: 2025-08-19T03:42:03.228Z
 ---
 
-## Welcome to Linux Lite - simple, fast, free.
+[Linux Lite Home](https://www.linuxliteos.com/) | [Download](https://www.linuxliteos.com/download.php) | [Donate](https://www.linuxliteos.com/donate.html) | [Hardware Database](https://www.linuxliteos.com/hardware.php) | [Forums](https://www.linuxliteos.com/forums)
+
+## Welcome to Linux Lite - simple, fast, free
 
 Thank you for choosing the Linux Lite Operating System.
 
-**Version:** 7.4 | Date published: 1st April, 2025
+**Version:** 7.6 | Date published: 1st September, 2025
 
-**What's New:** Updated information for 7.4 release.
+**What's New:** Updated information for 7.6 release.
 
-**Authors:** Jerry Bezencon, Jethro Shearer, Ralphy, Bill Hahnen, Ralphy, Milos Pavlovic, Adam Grubbs, John Jenkins
+**Authors:** Jerry Bezencon, Jethro Shearer, Ralphy, Bill Hahnen, Ralphy, Milos Pavlovic, Adam Grubbs, John Jenkins, Avijit Majumder, Jethro Shearer, Ryu Rabino
+
+:computer: **Linux Lite Website:** [https://www.linuxliteos.com/](https://www.linuxliteos.com/)
+
+:pencil: **Github:** [https://github.com/linuxlite/wiki](https://github.com/linuxlite/wiki)
+
+:pencil: **Gitlab:** [https://gitlab.com/users/linuxlite/projects](https://gitlab.com/users/linuxlite/projects)
+
+:mdi-githu:
 
 ## Operating System
 
 |     |     |
 | --- | --- |
-| **Current Release Name** | Linux Lite 7.4 |
+| **Current Release Name** | Linux Lite 7.6 |
 | **Architecture** | 64bit |
 | **Supported BIOS** | Legacy, UEFI & Secure Boot |
-| **Software Base** | Ubuntu 24.04.2 LTS |
+| **Software Base** | Ubuntu 24.04.3 LTS |
 | **Desktop Environment** | XFCE 4.18 |
 | **Media Type** | DVD, 4GB or larger USB device |
 
-  
 
 ## Recommended Computer Requirements:
 
-*   1.5 Ghz Dual Core Processor or greater
-*   2GB ram
+*   1.5 Ghz Dual Core Processor
+*   4GB Memory
 *   40GB HDD/SSD/NVME
 *   VGA, DVI, DP or HDMI screen capable of 1366x768 resolution
 *   DVD drive or USB port for the ISO image
 *   Disable Secure Boot
 
+
 ## Social Media:
 
-*   <a href="https://www.facebook.com/linuxliteos" target="_blank" rel="noopener noreferrer">https://www.facebook.com/linuxliteos</a>
-*   <a href="https://twitter.com/linuxlite" target="_blank" rel="noopener noreferrer">https://twitter.com/linuxlite</a>
-*   <a href="https://www.reddit.com/r/LinuxLite/" target="_blank" rel="noopener noreferrer">https://www.reddit.com/r/LinuxLite/</a>
-*   <a href="https://discord.com/channels/1042646000193503243/1042646001179168820" target="_blank" rel="noopener noreferrer">https://discord.com/channels/1042646000193503243/1042646001179168820</a>
+**Facebook:** [https://www.facebook.com/linuxliteos](https://www.facebook.com/linuxliteos)
+**Twitter:** [https://twitter.com/LinuxLite](https://twitter.com/LinuxLite)
+**Reddit:** [https://www.reddit.com/r/LinuxLite/](https://www.reddit.com/r/LinuxLite/)
+**YouTube:** [http://www.youtube.com/c/linuxliteos](http://www.youtube.com/c/linuxliteos)
+**Discord:** [https://discord.com/channels/1042646000193503243/1042646001179168820](https://discord.com/channels/1042646000193503243/1042646001179168820)  
+**LinkedIn:** [http://www.linkedin.com/in/jerrybezencon](http://www.linkedin.com/in/jerrybezencon)
+
 
 ## Keyboard Shortcuts
 
@@ -64,18 +77,20 @@ Thank you for choosing the Linux Lite Operating System.
 | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>         | Opens the onscreen keyboard               |
  
 
-
 ## Included Software
 
-Chrome Web Browser, Thunderbird Email, LibreOffice Writer (Word), LibreOffice Calc (Excel), LibreOffice Impress (Powerpoint), LibreOffice Base (Access DB), VLC Media Player, Gimp Image Editor, Text Editor, PDF Viewer, CD/DVD Burner, USB Burner, Image Scanner, Image Viewer, Firewall, Backups, Bluetooth Manager, Partition Drives, System Monitoring Center, Install Drivers, Timeshift, Whisker Menu, Lite Auto Login, Lite Desktop, Lite Info, Lite Network Shares, Lite Software, Lite Sounds, Lite Sources, Lite System Report, Lite Theme Manager, Lite Tweaks, Lite Updates Notify, Lite Upgrade, Lite User Manager, Lite Welcome, Lite Widget, Screen Reader, Onscreen Keyboard and Magnifier, Help Manual.
+Chrome Web Browser, Thunderbird Email, LibreOffice Writer (Word), LibreOffice Calc (Excel), LibreOffice Impress (Powerpoint), LibreOffice Base (Access DB), VLC Media Player, Gimp Image Editor, Text Editor, PDF Viewer, CD/DVD Burner, USB Burner, Image Scanner, Image Viewer, Firewall, Backups, Bluetooth Manager, Partition Drives, System Monitoring Center, Install Drivers, Timeshift, Whisker Menu, Lite Auto Login, Lite Desktop, Lite DPI, Lite Info, Lite Network Shares, Lite Patch, Lite Software, Lite Sounds, Lite Sources, Lite System Report, Lite Theme Manager, Lite Tweaks, Lite Updates Notify, Lite Upgrade, Lite User Manager, Lite Welcome, Lite Widget, Screen Reader, Onscreen Keyboard and Magnifier, Help Manual.
+
 
 ## Post Installation
 
 The first thing you should do after a new install is click on **Menu, Favorites, Install Updates**. Next if you have any wireless, wired, graphics card devices or other hardware devices, click on **Menu, Settings, Install Drivers**. Please read the information provided very carefully before choosing a suitable driver. It is usually best to choose the recommended driver. You can look through how to connect to the internet by clicking [here](network.html). More information on drivers can be found [here](hardware.html).
 
+
 ## UEFI
 
 According to <a href="https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/" target="_blank" rel="noopener noreferrer">How-To-Geek</a>, *"The BIOS will soon be dead: Intel has announced plans to completely replace it with UEFI on all their chipsets by 2020. The traditional BIOS still has serious limitations. It can only boot from drives of 2.1 TB or less. 3 TB drives are now common, and a computer with a BIOS can’t boot from them. That limitation is due to the way the BIOS’s Master Boot Record system works. UEFI replaces the traditional BIOS on PCs. There’s no way to switch from BIOS to UEFI on an existing PC."*
+
 
 ## How do I know if my computer has UEFI?
 
@@ -83,15 +98,18 @@ In **Windows Search**, type **msinfo** or **msinfo32** and launch the desktop ap
 
 ![](images/start/uefims.png)  
 
+
 ## Secure Boot
 
 Linux Lite recommends that you disable Secure Boot in your BIOS. This will save you potentially a lot of headaches during the use of your system. Linux Lite will run with Secure Boot enabled, but we highly recommend that you don't. You should be aware that Secure Boot is considered a security feature and was implemented to make it harder for things like ransomware to take hold of your pc.
+
 
 ## Disable Secure Boot in Windows
 
 See the following link for generic instructions on how to disable Secure Boot in Windows (configuration will differ slightly depending on the manufacturer)
 
 (Internet connection required to view video)
+
 
 ## Disabling Secure Boot - Tips
 
@@ -102,6 +120,7 @@ There are many ways to do this. One of these should work for your system:
 \- Turn on your PC and access your BIOS menu. You can do this by pressing a key during the bootup sequence, eg. F1, F2, F12, or Esc. Look for the Secure Boot setting, set it to Disabled. Secure Boot is usually in either the Security tab, the Boot tab, or the Authentication tab. Save changes and exit your BIOS.  
   
 \- In Windows - Clicking the gear icon on the Start menu will take you to Settings. In Settings, choose Update & Security. Select Recovery from the left menu and you can see Advanced startup at the right side. Click Restart Now under the Advanced startup option. The comptuer will reboot to the Recovery menu. Select Troubleshoot, Advanced options, UEFI Firmware Settings. Restart.  
+
 
 ## Keyboard Function
 
@@ -117,36 +136,33 @@ On some laptops you may have to enable **Numlock** as it is disabled by default.
 <kbd>Fn</kbd> + <kbd>F4</kbd> (Dell)  
 <kbd>Fn</kbd> + <kbd>Nmlk</kbd> (Lenovo, ASUS)
 
+
 ## Lite System Report
 
 Linux Lite comes with the **Lite System Report** tool found under **Menu, Settings**. This tool helps our Support team more accurately identify any problems you may be having, thus providing you with better service. Click [here](hardware.html#sysreport) to learn more about this.
+
 
 ## Lite info
 
 The purpose of the Linux Lite Hardware Database, is to give people an idea of different computer configurations from within a Linux Lite Series. The Linux Lite Hardware Database displays **Make and Model, CPU, Graphics, Audio, Network and Storage** technical specifications. This provides a snapshot of the kind of computers people are able to use with Linux Lite. No personal or security related information is gathered or displayed. Click on **Menu, Settings, Lite Info** to share your hardware and help others. Click [here](https://www.linuxliteos.com/hardware.php) to go to the Linux Lite Hardware Database.
 
+
 ## Support
 
 If you cannot find the answer to your question in this Manual, please choose from the following:
+
 
 ## Forums
 
 Click [here](https://www.linuxliteos.com/forums/) to get support for Linux Lite on the [Linux Lite Forums](https://www.linuxliteos.com/forums/). Please search the Forums before posting your question, chances are the question you have, has previously been answered. When posting for support, make your title descriptive as possible. Within the post, specify details of the problem, describe the procedure you followed that led to it, steps you tried in order to resolve the issue, and any error messages you may have encountered at various stages in the process. Also include information on your computer - model number, approximate age, CPU, RAM, etc. (The [Lite System Report](hardware.html#sysreport) tool is good for that.) The more info you provide the easier it will be for people to evaluate the situation and offer appropriate guidance.
 
-**NOTE: Please read the [Forum Posting Guidelines](https://www.linuxliteos.com/forums/introductions/forum-posting-guidelines/) before creating your first post**.
+**NOTE: Please read the [Forum Posting Guidelines](https://www.linuxliteos.com/forums/showthread.php?tid=24) before creating your first post**.
+
 
 ## General Software Support
 
 If you are using a program for example **Chrome**, the first port of call should always be the developer and or creator/s directly. Most programs have a **Help** menu somewhere on their program. The **Help** menu will then have a link to their support area. This is where the experts are and you should receive excellent support. If after trying this you are still getting nowhere, feel free to use one of our above services. Because Linux Lite is based on the popular Ubuntu Operating System, many questions can also be answered by simply entering the issue you are having into your favorite search engine.
 
-## Social Networks
-
-**Facebook:** [https://www.facebook.com/linuxliteos](https://www.facebook.com/linuxliteos)
-**Twitter:** [https://twitter.com/LinuxLite](https://twitter.com/LinuxLite)
-**Reddit:** [https://www.reddit.com/r/LinuxLite/](https://www.reddit.com/r/LinuxLite/)
-**YouTube:** [http://www.youtube.com/c/linuxliteos](http://www.youtube.com/c/linuxliteos)
-**Discord:** [https://discord.com/channels/1042646000193503243/1042646001179168820](https://discord.com/channels/1042646000193503243/1042646001179168820)  
-**LinkedIn:** [http://www.linkedin.com/in/jerrybezencon](http://www.linkedin.com/in/jerrybezencon)
 
 ## Tour
 
@@ -211,6 +227,7 @@ In Linux Lite, the **Settings Manager** is like the Control Panel in Windows. Th
 
 ![](images/start/tour/tour7.png)  
 
+
 ## Menus
 
 The menu system on Linux Lite has been greatly simplified to make navigation intuitive.
@@ -219,7 +236,7 @@ The menu system on Linux Lite has been greatly simplified to make navigation int
 
 ![](images/start/menus/menu_system.png)  
 
-**Package Manager** - Install and Remove software with the [Synaptic Package Manager](software.html#software).  
+**Package Manager** - Install and Remove software with the [Synaptic Package Manager](software.html#installsoftware).  
 **Partition Drives** - View and edit your hard drive partitions with [GParted](http://gparted.sourceforge.net/) program.  
 **Printers** - Install and set up printers.  
 **Process Viewer** - Shows you how much cpu and memory your computer is using. Also displays system processes.  
@@ -229,7 +246,6 @@ The menu system on Linux Lite has been greatly simplified to make navigation int
 **System Restore Utility** - System restore tool for Linux. Supports scheduled snapshots, multiple backup levels, and exclude filters. (like System Restore in Windows)  
 **Terminal Emulator** - A command line utility like the command prompt in Windows.
 
-  
 
 ## Office Menu
 
@@ -242,6 +258,7 @@ The menu system on Linux Lite has been greatly simplified to make navigation int
 [Presentation](http://www.libreoffice.org/discover/impress/) - Opens LibreOffice Impress, an application similar to Microsoft PowerPoint.  
 [Word Processor](http://www.libreoffice.org/discover/writer/) - Opens LibreOffice Writer, an application similar to Microsoft Word.
 
+
 ## Multimedia Menu
 
 ![](images/start/menus/menu_multimedia.png)
@@ -249,6 +266,7 @@ The menu system on Linux Lite has been greatly simplified to make navigation int
 [CD/DVD Burner](https://docs.xfce.org/apps/xfburn/start?s[]=xfburn) - A fully featured CD & DVD burning program - XFBurn.  
 [Media Player](http://www.videolan.org/vlc/index.html) - VLC, a fantastic all around media player, play mp3's, avi's, mkv's etc. Plays all your media files.  
 **Volume Control** - Individually set volume levels for each program that is running and configure your sound devices.
+
 
 ## Internet Menu
 
@@ -259,6 +277,7 @@ The menu system on Linux Lite has been greatly simplified to make navigation int
 **Support** - Get Support at the Linux Lite [Forums](https://www.linuxliteos.com/forums/).  
 [Web Browser](https://www.google.com/chrome/) - Browse the internet with Chrome.
 
+
 ## Graphics Menu
 
 ![](images/start/menus/menu_graphics.png)
@@ -267,6 +286,7 @@ The menu system on Linux Lite has been greatly simplified to make navigation int
 [Image Editor](http://www.gimp.org/) - GIMP is a powerful, and fully featured image manipulation program with features similar to Photoshop.  
 [Paint](https://launchpad.net/gnome-paint) - Gnome Paint is a simple to use Paint application.  
 [Photo Manager](https://wiki.gnome.org/Apps/Shotwell) - Preview your pictures and apply basic editing changes to them with the Shotwell image viewer.
+
 
 ## Accessories Menu
 
@@ -285,11 +305,13 @@ The menu system on Linux Lite has been greatly simplified to make navigation int
 **Onboard onscreen keyboard** - An onscreen keyboard offered as an accessibility option.  
 **Onboard onscreen keyboard settings** - Configure Onboard settings.
 
+
 ## My Computer Menu
 
 ![](images/start/menus/menu_mycomputer.png)
 
-Conveniently placed shortcuts to your file system and all the folders within your home directory (English installations only).  
+Conveniently placed shortcuts to your file system and all the folders within your home directory (English installations only).
+
 
 ## Application Finder
 
@@ -297,13 +319,18 @@ Conveniently placed shortcuts to your file system and all the folders within you
 
 Clicking on this, you can run any program that is installed on the computer by its name.
 
+
 ## Install Updates
 
 Checks for updates for Linux Lite. Click [here](software.html#updates) to learn more about installing updates.
 
-## Help Manual
 
-A link to this Help manual.
+## Linux Lite Wiki
+
+A link to this online Wiki.
+
+![](images/start/menu_favorites.png)
+
 
 ## Accessibility - Assistive Technologies
 
@@ -329,7 +356,8 @@ In Linux Lite, we provide a screen reader, a screen magnifier and an onscreen ke
 **F3** - On Screen Keyboard  
 **F4** - Screen Reader
 
-![](images/start/as/as1.png)
+![](images/start/ass/as1.png)
+
 
 ## Screen Reader - Orca
 
@@ -337,21 +365,23 @@ Orca is a free and open-source, flexible, extensible screen reader from the Gnom
 
 To start Orca when you Login to your Desktop, click on **Menu, Settings, Session and Startup**. Then click on the **Application Autostart** tab, locate **Orca Screen Reader** and put a tick in the box. Logout, then Login again.
 
-![](images/start/as/as2.png)
+![](images/start/ass/as2.png)
 
 To configure Orca to your liking, click on **Menu, Settings, Settings Manager**. Click on the **Orca Settings** icon as shown below.
 
-![](images/start/as/as3.png)
+![](images/start/ass/as3.png)
 
 Here you can set up your screen reader to your own requirements. Orca is highly configurable so you should have no trouble setting it up to your personal requirements.
 
 The key combo of **Insert+S** will also toggle speech on and off.
 
-![](images/start/as/as4.png)
+![](images/start/ass/as4.png)
+
 
 ## Orca Keyboard Shortcuts and Resources
 
 See here - [http://manpages.ubuntu.com/manpages/jammy/en/man1/orca.1.html](http://manpages.ubuntu.com/manpages/jammy/en/man1/orca.1.html).
+
 
 ## Screen Magnifier
 
@@ -359,7 +389,6 @@ Fairly self explanatory. Zoom in on any part of the desktop with the **Left Alt 
 
 The magnifier doesn't need to be started at Login as it is always available.
 
- Your browser does not support the video tag.
 
 ## Onscreen Keyboard
 
@@ -369,9 +398,9 @@ To access the onscreen keyboard, click on **Menu, Accessories, Onboard onscreen 
 
 The onscreen keyboard is highly configurable. Click on **Menu, Accessories, Onboard onscreen keyboard settings** to set it up the way you like it.
 
-![](images/start/as/as6.png)
+![](images/start/ass/as6.png)
 
 To start the onscreen keyboard when you Login to your Desktop, click on **Menu, Settings, Session and Startup**. Then click on the **Application Autostart** tab, locate **Onboard** and put a tick in the box. Logout, then Login again.
 
-![](images/start/as/as7.png)
+![](images/start/ass/as7.png)
 

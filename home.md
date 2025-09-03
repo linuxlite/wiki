@@ -18,7 +18,7 @@ Thank you for choosing the Linux Lite Operating System.
 
 **What's New:** Updated information for 7.6 release.
 
-**Authors:** Jerry Bezencon, Jethro Shearer, Ralphy, Bill Hahnen, Ralphy, Milos Pavlovic, Adam Grubbs, John Jenkins, Avijit Majumder, Jethro Shearer, Ryu Rabino
+**Authors:** Jerry Bezencon, Jethro Shearer, Ralphy, Bill Hahnen, Ralphy, Milos Pavlovic, Adam Grubbs, John Jenkins, Avijit Majumder, Ryu Rabino
 
 :computer: **Linux Lite Website:** [https://www.linuxliteos.com/](https://www.linuxliteos.com/)
 
